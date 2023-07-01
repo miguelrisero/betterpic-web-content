@@ -28,6 +28,8 @@ Social media is one of the most widely used platforms for AI-generated portraits
 AI-created portraits are excellent for marketing and business purposes. Businesses can create distinctive and individualized marketing materials that are sure to grab the attention of potential customers by using AI-generated portraits in place of generic stock photos.
 In general, portrait AIs are altering how we perceive portraiture and making it more available and affordable to people everywhere.
 
+![professional headshot of a white woman with purple suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_3.jpg&w=1024&q=70)
+
 ### Everyone Can Access These Tools
 The best part is that you don't have to be a skilled photographer or graphic designer to use these tools. Anyone can create beautiful images in just a few clicks using AI image generator online programs and profile pic makers.
 People of all skill levels can use these tools easily and without difficulty. They provide a wide range of options, allowing you to customize your portrait's look and colors as well as add filters and special effects. Furthermore, these tools are becoming more and more well-liked among those who want to make distinctive and personalized images because they can produce high-quality images quickly and easily.
