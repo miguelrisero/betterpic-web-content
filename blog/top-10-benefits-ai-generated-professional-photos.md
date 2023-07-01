@@ -23,7 +23,8 @@ A brand's images can all have a consistent aesthetic thanks to AI portrait gener
 
 ### Benefit #4: Scalability
 An additional benefit of using an AI portrait generator is its scalability. Due to the need for specialized equipment and a professional photographer, traditional portrait photography can be constrained in terms of scalability. With an AI portrait generator, the technology can quickly and effectively create a large number of images, making it the perfect choice for companies that need to produce a lot of images.
-![professional headshot of a white man with glasses and a blue suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_1.jpg&w=1024&q=80)
+
+![professional headshot of a white man with glasses and a blue suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_1.jpg&w=1024&q=80){ width=225px }
 
 ### Benefit #5: Customization
 A more customizable AI portrait generator is also available. It can be challenging to produce portraits that are tailored to particular requirements using traditional portrait photography because it calls for specialized gear and a professional photographer's services. A custom AI portrait generator can be used to create images that adhere to particular specifications regarding size, color, and composition.
