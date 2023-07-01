@@ -5,6 +5,7 @@ description: In the digital age, online presence is crucial, and profile photos 
 readtime: 8
 date: 2023-04-12
 cover: /assets/blog/<blog>/cover.jpg
+test: 'this is a test'
 ---
 ### Introduction
 Are you tired of taking countless photos, only to realize that none of them look quite right? Maybe the lighting is off, or the subject is blurry. Whatever the issue may be, there's a new solution on the horizon: AI-generated images.
