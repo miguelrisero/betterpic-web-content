@@ -3,7 +3,7 @@ title: The Top 10 Benefits of AI-Generated Professional Photos
 category: AI Photos
 description: Discover the top 10 benefits of using AI portrait generators for professional photos.
 readtime: 4
-date: 2023-04-11
+date: 2023-07-02
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ### Introduction
