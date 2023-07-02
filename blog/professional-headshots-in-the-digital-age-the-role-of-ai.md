@@ -24,7 +24,7 @@ Currently, AI is at the forefront of this transformation, having an impact on ev
 
 ![professional headshot of a white guy with glasses and blue suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_7.jpg&w=1024&q=80)
 
-### Understanding AI and its Applications in Photography
+### Understanding AI and Its Applications in Photography
 
 #### What is Artificial Intelligence (AI)
 Artificial intelligence (AI) is the term used to describe the simulation of human intelligence in machines that have been made to act and think like humans. AI is used in photography to identify patterns, improve lighting, and even make compositional suggestions. AI in photography can take the form of basic tools for erasing backgrounds or sophisticated ai headshot generators that produce headshots with a studio-like quality.
