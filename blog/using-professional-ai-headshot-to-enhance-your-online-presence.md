@@ -78,7 +78,9 @@ Betterpic is the best option for creating AI headshots thanks to its many featur
 
 - **Fast generating speed**: Ready for you in just 2 to 24h.
 
+
 - **High-quality results**: You can get realistic and high-definition headshots that look like they were taken by a professional photographer.
+
 
 - **Wide range of styles**: You can choose from different styles such as formal, casual, etc., to match your purpose and preference.
 
