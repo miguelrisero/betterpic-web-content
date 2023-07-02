@@ -2,7 +2,7 @@
 title: 'Why Traditional Headshot Seekers Should Consider AI-Generated Headshots'
 category: AI Photos
 description: AI-Generated Headshots:Affordable, Convenient, and Creative Portraits.
-readtime: 5
+readtime: 6
 date: 2023-07-05
 cover: /assets/blog/<blog>/cover.jpg
 ---
