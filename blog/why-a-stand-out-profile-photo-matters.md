@@ -1,7 +1,7 @@
 ---
 title: Why a Stand-Out Profile Photo Matters
 category: Social Presence
-description: In the digital age, online presence is crucial, and profile photos impact perception. This blog explores psychology, AI technology, and personalizing profile photos for positive impressions.
+description: This blog explores psychology, AI technology, and personalizing profile photos for positive impressions.
 readtime: 6
 date: 2023-07-01
 cover: /assets/blog/<blog>/cover.jpg
