@@ -3,7 +3,7 @@ title: 'Professional Headshots in the Digital Age: The Role of AI'
 category: AI Photos
 description: AI revolutionizes professional headshots by enhancing images, adjusting lighting, changing backgrounds, and automating retouching.
 readtime: 10
-date: 2023-07-04
+date: 2023-07-01
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ### Introduction

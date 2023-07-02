@@ -3,7 +3,7 @@ title: Why a Stand-Out Profile Photo Matters
 category: Social Presence
 description: This blog explores psychology, AI technology, and personalizing profile photos for positive impressions.
 readtime: 6
-date: 2023-07-01
+date: 2023-07-02
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ### Introduction

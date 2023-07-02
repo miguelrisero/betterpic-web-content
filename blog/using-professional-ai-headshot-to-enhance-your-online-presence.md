@@ -3,7 +3,7 @@ title: 'Using Professional AI-Headshot to Enhance Your Online Presence'
 category: Social Presence
 description: Learn how to enhance your executive presence with AI-generated headshots.
 readtime: 4
-date: 2023-07-06
+date: 2023-07-02
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ### Introduction

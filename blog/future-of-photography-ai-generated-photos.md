@@ -3,7 +3,7 @@ title: 'The Future of Photography: AI-Generated Professional Photos'
 category: Future
 description: Online presence, profile photos, psychology, AI, and positive impressions explored.
 readtime: 9
-date: 2023-07-03
+date: 2023-07-01
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ### Introduction
