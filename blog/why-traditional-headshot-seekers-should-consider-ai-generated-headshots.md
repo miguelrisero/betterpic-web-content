@@ -1,7 +1,7 @@
 ---
 title: 'Why Traditional Headshot Seekers Should Consider AI-Generated Headshots'
 category: AI Photos
-description: AI-Generated Headshots:Affordable, Convenient, and Creative Portraits.
+description: 'AI-Generated Headshots: Affordable, Convenient, and Creative Portraits.'
 readtime: 6
 date: 2023-07-02
 cover: /assets/blog/<blog>/cover.jpg
@@ -20,7 +20,7 @@ AI headshots, on the other hand, are more affordable to purchase. For instance, 
 
 You won't need to pay for a photographer, studio rental, makeup artist, or editing services if you use AI-generated headshots. You also don't have to waste time getting to appointments, getting there, or posing for pictures. Online, you can easily and quickly get your headshot.
 
-![professional portrait of a white woman with orange shirt and glasses](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_2.jpg&w=1024&q=80)
+![professional portrait of a white woman with orange shirt and glasses](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_2.jpg&w=768&q=70)
 
 ### Convenience 
 AI-generated headshots also offer more flexibility and control than conventional headshots, which is another advantage. With conventional headshots, your options are constrained by the photographer's schedule, aesthetic, studio's setting, and your financial and time constraints. You might not get your desired headshot's exact feel or look.
@@ -50,7 +50,7 @@ AI portrait generators can help you improve your online presence and personal br
 
 Actors, models, businesspeople, influencers, and others have all improved their online presence and personal branding by using ai business headshots. Thanks to pfp generators, some of them have even obtained jobs, contracts, or collaborations.
 
-![business headshot of a man with blue shirt and white background](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_5.jpg&w=1024&q=80)
+![business headshot of a man with blue shirt and white background](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_5.jpg&w=768&q=70)
 
 ### Conclusion
 Corporate ai photographs  are a great alternative to traditional headshots for anyone who wants to save money and time, have more flexibility and control, and unleash their creativity. They are realistic, customizable, and easy to use. They can help you create a professional and memorable image that reflects your goals and values.
