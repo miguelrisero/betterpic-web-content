@@ -32,7 +32,7 @@ AI technology analyzes a photo's various components, including lighting, angles,
 
 AI technology can personalize photos in addition to improving their quality so that they more accurately depict the person's personality and sense of style. AI algorithms can create a personalized image that accurately captures the subject's distinctive characteristics by examining the person's facial features and expressions in the picture.
 
-![professional headshot of a black man with a black suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_9.jpg&w=1024&q=70)
+![professional headshot of a black man with a black suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_9.jpg&w=768&q=70)
 
 ### How AI Generates Quality Profile Photos in Seconds
 
