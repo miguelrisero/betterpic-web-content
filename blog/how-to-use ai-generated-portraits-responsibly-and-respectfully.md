@@ -1,7 +1,7 @@
 ---
 title: 'How to Use AI Generated Portraits Responsibly and Respectfully'
 category: AI Photos
-description: AI-generated headshots are increasingly affordable and accessible. They offer convenience, diversity, quality, and creative freedom. However, ethical and legal concerns exist, such as consent and intellectual property rights.
+description: Learn more about the benefits and drawbacks of using AI-generated headshots. Find out how to use AI headshots responsibly, from convenience and diversity to ethical and legal issues. For your ideal AI headshot, Betterpic offers options that are both high-quality and customizable.
 readtime: 7
 date: 2023-06-28
 cover: /assets/blog/<blog>/cover.jpg
