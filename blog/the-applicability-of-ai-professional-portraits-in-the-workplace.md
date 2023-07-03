@@ -1,7 +1,7 @@
 ---
 title: 'The Applicability of AI-Business Portraits in the Workplace'
 category: AI Photos
-description: In this blog post, we explore the benefits and possibilities of using AI-generated headshots for professional purposes. We begin by highlighting the challenges and expenses associated with obtaining traditional headshots, such as the need for a professional photographer and the time and financial commitment. AI portraits, on the other hand, offer numerous advantages, including time and cost savings. Using an AI headshot generator like Betterpic, individuals can easily create stunning headshots by uploading their pictures and letting the AI technology handle the rest.
+description: In this blog post, we explore the benefits and possibilities of using AI-generated headshots for professional purposes. We begin by highlighting the challenges and expenses associated with obtaining traditional headshots, such as the need for a professional photographer.
 readtime: 7
 date: 2023-07-04
 cover: /assets/blog/<blog>/cover.jpg

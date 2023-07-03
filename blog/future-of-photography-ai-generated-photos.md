@@ -1,8 +1,7 @@
 ---
 title: 'The Future of Photography: AI-Generated Professional Photos'
 category: Future
-description: In this blog post, we explore the fascinating world of AI-generated images and how they are shaping the future of photography. With the development of artificial intelligence and machine learning, it is now possible to create high-quality images that rival those produced by human hands.
-AI art is one of the most intriguing aspects of this advancement. Sophisticated algorithms enable AI systems to generate stunning artworks that closely resemble those made by human artists. By studying patterns and styles in existing works, AI can produce entirely new pieces that capture the essence of the original art while adding a unique touch.
+description: Discover the intriguing world of AI art and how it affects photography. AI image generators enable anyone to produce beautiful, unique images, from captivating cityscapes to stunning portraits.
 readtime: 9
 date: 2023-06-27
 cover: /assets/blog/<blog>/cover.jpg

@@ -1,8 +1,7 @@
 ---
 title: 'Professional Headshots in the Digital Age: The Role of AI'
 category: AI Photos
-description: In this blog post, we examine how the development of AI technologies is altering the field of professional headshots. In order to get things started, let's discuss the value of expert headshots in the modern digital age and how they communicate professionalism and personal branding. Traditionally, getting headshots required hiring a photographer, going to a studio, and spending a lot of time and money. The digital revolution, however, increased accessibility and made professional photography more affordable.
-The AI headshot generator from BetterPic is an example of how AI has been successfully incorporated into business headshots. Users can upload their images to get quick and affordable headshots that are of studio quality. Executives and small businesses alike can get high-quality headshots using this tool, which is used by people and businesses all over the world.
+description: In this blog post, we examine how the development of AI technologies is altering the field of professional headshots. In order to get things started, let's discuss the value of expert headshots in the modern digital age and how they communicate professionalism and personal branding.
 readtime: 7
 date: 2023-06-28
 cover: /assets/blog/<blog>/cover.jpg
