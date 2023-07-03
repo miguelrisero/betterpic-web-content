@@ -34,7 +34,9 @@ No design or photography expertise is required. Just adhere to these easy instru
 
 That's all! Using Betterpic, you just produced a polished AI portrait in a few hours.
 
-Here are some entrepeneurs portraits created by Betterpic AI:
+Here are an entrepeneur portrait created by Betterpic AI:
+
+![professional headshot of a white guy with blue suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-11.jpg&w=768&q=70)
 
 You can see that Betterpic can assist you in producing AI headshots that demonstrate your self-assurance and credibility as an entrepreneur.
 

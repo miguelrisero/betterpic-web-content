@@ -27,7 +27,7 @@ An additional benefit of using an AI portrait generator is its scalability. Due 
 ## Benefit #5: Customization
 A more customizable AI portrait generator is also available. It can be challenging to produce portraits that are tailored to particular requirements using traditional portrait photography because it calls for specialized gear and a professional photographer's services. A custom AI portrait generator can be used to create images that adhere to particular specifications regarding size, color, and composition.
 
-![professional headshot of a white man with glasses and a blue suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_1.jpg&w=768&q=70)
+![professional headshot of a white man with blue suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-15.jpg&w=768&q=70)
 
 ## Benefit #6: Accessibility
 Utilizing an AI portrait generator also improves accessibility.
@@ -40,7 +40,7 @@ The AI portrait generator can also inspire originality. Since traditional portra
 ## Benefit #8: Accuracy
 The accuracy it guarantees is another benefit of using an AI portrait generator. Because it calls for specialized gear and the expertise of a professional photographer, producing images that are truly accurate with traditional portrait photography can be difficult. Research in science and medicine benefits greatly from the use of AI portrait generators, which can produce images that are extremely accurate.
 
-![professional headshot of a white girl with green blouse](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_4.jpg&w=768&q=70)
+![professional headshot of a white girl with white suit and park background](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-55.jpg&w=768&q=70)
 
 ## Benefit #9: Security
 Also increasing security is the AI portrait generator. The physical copies of the photographs can always be lost or damaged when using traditional portrait photography. In contrast, the images produced by an AI portrait generator are stored digitally and can be protected with cutting-edge encryption technology, making them much more secure. Businesses that handle sensitive data, like legal or medical records, may find this to be particularly advantageous.

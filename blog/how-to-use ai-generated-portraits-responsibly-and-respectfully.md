@@ -28,6 +28,8 @@ High-resolution headshots that are realistic and up to par with the requirements
 ### Creative Freedom
 You can use your imagination to come up with one-of-a-kind, artistic headshots that highlight your abilities, skills, or interests. Artificial intelligence-generated headshots can also be used for amusement or fun.
 
+![ai portrait of a white guy with black suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-7.jpg&w=1024&q=80)
+
 ## Explore the Risks and Challenges of Using AI Headshots
 There are limitations and drawbacks to headshots produced by AI. When using them, there are some dangers and difficulties that you should be aware of. Among them are:
 

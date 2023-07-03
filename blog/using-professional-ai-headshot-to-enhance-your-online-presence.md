@@ -44,7 +44,7 @@ As a result, improving your executive presence requires having a polished and ap
 
 Here you can see a example of how AI-generated headshots can improve your LinkedIn profile picture:
 
-![professional portrait of a black guy with black suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_9.jpg&w=768&q=70)
+![professional portrait of a white woman with white suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-52.jpg&w=768&q=70)
 
 ### Resumes
 One of the most crucial documents in your job search is your resume. It highlights your value to potential employers by summarizing your education, experience, skills, and accomplishments. Additionally, this is your chance to make a good first impression and persuade them to invite you for an interview.
