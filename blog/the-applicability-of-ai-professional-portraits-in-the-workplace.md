@@ -2,7 +2,7 @@
 title: 'The Applicability of AI-Business Portraits in the Workplace'
 category: AI Photos
 description: How AI-business portraits can benefit you and your goals.
-readtime: 5
+readtime: 6
 date: 2023-07-04
 cover: /assets/blog/<blog>/cover.jpg
 ---
