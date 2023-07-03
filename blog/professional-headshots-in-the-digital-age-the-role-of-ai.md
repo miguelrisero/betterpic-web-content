@@ -2,7 +2,7 @@
 title: 'Professional Headshots in the Digital Age: The Role of AI'
 category: AI Photos
 description: In this blog post, we examine how the development of AI technologies is altering the field of professional headshots. In order to get things started, let's discuss the value of expert headshots in the modern digital age and how they communicate professionalism and personal branding.
-readtime: 7
+readtime: 6
 date: 2023-06-28
 cover: /assets/blog/<blog>/cover.jpg
 ---

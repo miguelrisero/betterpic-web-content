@@ -2,7 +2,7 @@
 title: 'Using Professional AI-Headshot to Enhance Your Online Presence'
 category: Social Presence
 description: AI-generated headshots offer a convenient and cost-effective solution for creating professional and personalized portraits. In this blog post, we explore the benefits of using AI-generated headshots to enhance your executive presence.
-readtime: 6
+readtime: 7
 date: 2023-06-30
 cover: /assets/blog/<blog>/cover.jpg
 ---
