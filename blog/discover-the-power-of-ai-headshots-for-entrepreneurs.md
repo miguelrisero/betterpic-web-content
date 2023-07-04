@@ -1,6 +1,6 @@
 ---
 title: 'Discover the Power of AI Headshots for Entrepreneurs'
-category: AI in Professions
+category: Professions
 description: The blog post explains how to use Betterpic to create professional AI headshots in minutes, how to showcase confidence and credibility with AI headshots, how to capture the essence of entrepreneurial spirit with AI headshots, and how to add the final touch to AI headshots. 
 readtime: 7
 date: 2023-07-03
