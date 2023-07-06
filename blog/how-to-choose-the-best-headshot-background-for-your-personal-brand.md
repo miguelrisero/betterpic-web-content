@@ -1,5 +1,5 @@
 ---
-title: 'How AI Headshots for Lawyers is Changing the Industry'
+title: 'How to Choose the Best Headshot Background for your Personal Brand'
 category: AI Photos
 description: Enhance your personal brand with the perfect business headshot background. Use BetterPic's AI headshot generator for high-quality results without the hassle of photoshoots.
 readtime: 5
