@@ -2,7 +2,7 @@
 title: 'How AI Headshots for Lawyers is Changing the Industry'
 category: AI Photos
 description: Enhance your personal brand with the perfect business headshot background. Use BetterPic's AI headshot generator for high-quality results without the hassle of photoshoots.
-readtime: 6
+readtime: 5
 date: 2023-06-27
 cover: /assets/blog/<blog>/cover.jpg
 ---

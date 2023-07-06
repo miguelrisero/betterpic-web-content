@@ -2,7 +2,7 @@
 title: 'How to Use AI Generated Portraits Responsibly and Respectfully'
 category: AI Photos
 description: Learn more about the benefits and drawbacks of using AI-generated headshots. Find out how to use AI headshots responsibly, from convenience and diversity to ethical and legal issues. For your ideal AI headshot, Betterpic offers options that are both high-quality and customizable.
-readtime: 7
+readtime: 8
 date: 2023-06-28
 cover: /assets/blog/<blog>/cover.jpg
 ---

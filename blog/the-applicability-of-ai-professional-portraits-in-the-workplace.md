@@ -2,7 +2,7 @@
 title: 'The Applicability of AI-Business Portraits in the Workplace'
 category: AI Photos
 description: In this blog post, we explore the benefits and possibilities of using AI-generated headshots for professional purposes. We begin by highlighting the challenges and expenses associated with obtaining traditional headshots, such as the need for a professional photographer.
-readtime: 6
+readtime: 7
 date: 2023-07-04
 cover: /assets/blog/<blog>/cover.jpg
 ---

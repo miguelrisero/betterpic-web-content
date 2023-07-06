@@ -2,7 +2,7 @@
 title: 'What is a Headshot and Why You Need One'
 category: AI Photos
 description: Capture attention and leave a lasting impression with a professional headshot. Learn how to take one, what to wear, and how to pose.
-readtime: 8
+readtime: 7
 date: 2023-06-30
 cover: /assets/blog/<blog>/cover.jpg
 ---

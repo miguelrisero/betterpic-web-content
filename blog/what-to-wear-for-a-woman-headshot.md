@@ -2,7 +2,7 @@
 title: 'What to Wear for a Woman Headshot'
 category: AI Photos
 description: Elevate your personal and professional brand with professional woman headshots. Use BetterPic's AI-generated headshots for a customized and stunning look.
-readtime: 5
+readtime: 6
 date: 2023-06-30
 cover: /assets/blog/<blog>/cover.jpg
 ---

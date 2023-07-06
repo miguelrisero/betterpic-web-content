@@ -2,7 +2,7 @@
 title: Why a Stand-Out Profile Photo Matters
 category: Social Presence
 description: Having a strong online presence is crucial in today's digital era, and our profile picture plays a significant role in making a good first impression. In this blog post, we explore how to create a distinctive profile photo that leaves a positive impression.
-readtime: 5
+readtime: 7
 date: 2023-07-01
 cover: /assets/blog/<blog>/cover.jpg
 ---
