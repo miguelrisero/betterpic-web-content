@@ -3,7 +3,7 @@ title: 'Executive Headshots: How to Look Professional, Confident and Authentic'
 category: AI Photos
 description: Discover how to prepare, pose, and choose the best executive headshot. Learn about BetterPic's AI-generated headshots, saving time and effort while getting stunning results.
 readtime: 6
-date: 2023-06-30
+date: 2023-07-01
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ## Introduction
