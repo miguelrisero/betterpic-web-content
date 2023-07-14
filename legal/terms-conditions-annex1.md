@@ -1,13 +1,14 @@
 ---
 title: Privacy Policy (Annex 1)
+description: "This is the BetterPic's Privacy Policy Annex 1."
 category: Legal Document
 updated: 2023-03-30
 ---
-### ANNEX 1 TO THE PERSONAL DATA PROTECTION POLICY.
+## ANNEX 1 TO THE PERSONAL DATA PROTECTION POLICY.
 
-### European National Data Protection Authorities
+## European National Data Protection Authorities
 
-#### Austria
+### Austria
 
 **Österreichische Datenschutzbehörde**
 Hohenstaufengasse 3
@@ -20,7 +21,7 @@ Website: http://www.dsb.gv.at/
 Art 29 WP Member: **Dr Andrea JELINEK**, Director, Österreichische
 Datenschutzbehörde
 
-#### Belgium
+### Belgium
 
 **Commission de la protection de la vie privée**
 **Commissie voor de bescherming van de persoonlijke levenssfeer**
@@ -33,7 +34,7 @@ Website: http://www.privacycommission.be/
 Art 29 WP Vice-President: **Willem DEBEUCKELAERE**, President of the Belgian
 Privacy commission
 
-#### Bulgaria
+### Bulgaria
 
 **Commission for Personal Data Protection**
 2, Prof. Tsvetan Lazarov blvd. Sofia 1592
@@ -46,7 +47,7 @@ Art 29 WP Member: **Mr Ventsislav KARADJOV**, Chairman of the Commission for Per
 
 Art 29 WP Alternate Member: **Ms Mariya MATEVA**
 
-#### Croatia
+### Croatia
 
 **Croatian Personal Data Protection Agency**
 Martićeva 14
@@ -59,7 +60,7 @@ Website: http://www.azop.hr/
 Art 29 WP Member: **Mr Anto RAJKOVAČA**, Director of the Croatian Data Protection
 Agency
 
-#### Cyprus
+### Cyprus
 
 **Commissioner for Personal Data Protection**
 1 Iasonos Street,
@@ -73,7 +74,7 @@ Art 29 WP Member: **Ms Irene LOIZIDOU NIKOLAIDOU**
 
 Art 29 WP Alternate Member: **Mr Constantinos GEORGIADES**
 
-#### Czech Republic
+### Czech Republic
 
 **The Office for Personal Data Protection**
 Urad pro ochranu osobnich udaju Pplk. Sochora 27
@@ -87,7 +88,7 @@ Art 29 WP Member: **Ms Ivana JANŮ**, President of the Office for Personal Data
 
 Art 29 WP Alternate Member: **Mr Ivan PROCHÁZKA**, Adviser to the President of the Office
 
-#### Denmark
+### Denmark
 
 **Datatilsynet**
 Borgergade 28, 5
@@ -103,7 +104,7 @@ Agency (Datatilsynet)
 Art 29 WP Alternate Member: **Mr Peter FOGH KNUDSEN**, Head of International
 Division at the Danish Data Protection Agency (Datatilsynet)
 
-#### Estonia
+### Estonia
 
 **Estonian Data Protection Inspectorate** (Andmekaitse Inspektsioon)
 Väike-Ameerika 19
@@ -118,7 +119,7 @@ Inspectorate
 
 Art 29 WP Alternate Member: **Ms Maarja Kirss**
 
-#### Finland
+### Finland
 
 **Office of the Data Protection Ombudsman**
 P.O. Box 315
@@ -132,7 +133,7 @@ Authority
 
 Art 29 WP Alternate Member: **Ms Elisa KUMPULA**, Head of Department
 
-#### France
+### France
 
 **Commission Nationale de l'Informatique et des Libertés - CNIL**
 8 rue Vivienne, CS 30223 F-75002 Paris, Cedex 02 Tel. +33 1 53 73 22 22
@@ -143,7 +144,7 @@ Art 29 WP Member: **Ms Isabelle FALQUE-PIERROTIN**, President of CNIL
 
 Art 29 WP Alternate Member: **Ms Florence RAYNAL**
 
-#### Germany
+### Germany
 
 **Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit**
 Husarenstraße 30
@@ -164,7 +165,7 @@ Information
 Art 29 WP Alternate Member: **Prof. Dr. Johannes CASPAR**, representative of the
 federal states
 
-#### Greece
+### Greece
 
 **Hellenic Data Protection Authority**
 Kifisias Av. 1-3, PC 11523 Ampelokipi Athens
@@ -177,7 +178,7 @@ Art 29 WP Member: **Mr Konstantinos Menoudakos**, President of the Hellenic DPA
 
 Art 29 WP Alternate Member: **Dr.Vasilios ZORKADIS**, Director
 
-#### Hungary
+### Hungary
 
 **National Authority for Data Protection and Freedom of Information**
 Szilágyi Erzsébet fasor 22/C H-1125 Budapest
@@ -191,7 +192,7 @@ Data Protection and Freedom of Information
 Art 29 WP Alternate Member: **Mr Endre Győző SZABÓ** Vice-president of the National
 Authority for Data Protection and Freedom of Information
 
-#### Ireland
+### Ireland
 
 **Data Protection Commissioner**
 Canal House Station Road Portarlington Co. Laois
@@ -206,7 +207,7 @@ Art 29 WP Member: **Ms Helen DIXON**, Data Protection Commissioner
 Art 29 WP Alternate Members: **Mr John O'DWYER**, Deputy Commissioner; Mr Dale
 SUNDERLAND, Deputy Commissioner
 
-#### Italy
+### Italy
 
 **Garante per la protezione dei dati personali**
 Piazza di Monte Citorio, 121 00186 Roma
@@ -221,7 +222,7 @@ dati personali
 Art 29 WP Alternate Member: **Ms Giuseppe BUSIA**, Secretary General of Garante per
 la protezione dei dati personali
 
-#### Latvia
+### Latvia
 
 **Data State Inspectorate Director: Ms Daiga Avdejanova**
 Blaumana str. 11/13-15
@@ -233,7 +234,7 @@ Website: http://www.dvi.gov.lv/
 
 Art 29 WP Alternate Member: **Ms Aiga BALODE**
 
-#### Lithuania
+### Lithuania
 
 **State Data Protection**
 Žygimantų str. 11-6a 011042 Vilnius
@@ -248,7 +249,7 @@ Protection Inspectorate
 Art 29 WP Alternate Member: **Ms Neringa KAKTAVIČIŪTĖ-MICKIENĖ**, Head of
 Complaints Investigation and International Cooperation Division
 
-#### Luxembourg
+### Luxembourg
 
 **Commission Nationale pour la Protection des Données**
 1, avenue du Rock’n’Roll L-4361 Esch-sur-Alzette Tel. +352 2610 60 1
@@ -261,7 +262,7 @@ la Protection des Données
 
 Art 29 WP Alternate Member: **Mr Thierry LALLEMANG**, Commissioner
 
-#### Malta
+### Malta
 
 **Office of the Data Protection Commissioner Data Protection Commissioner: Mr
 Joseph Ebejer**
@@ -277,7 +278,7 @@ Commissioner
 Art 29 WP Alternate Member: **Mr Ian DEGUARA**, Director – Operations and
 Programme Implementation
 
-#### Netherlands
+### Netherlands
 
 **Autoriteit Persoonsgegevens**
 Prins Clauslaan 60
@@ -289,7 +290,7 @@ Website: https://autoriteitpersoonsgegevens.nl/nl
 
 Art 29 WP Member: **Mr Aleid WOLFSEN**, Chairman of Autoriteit Persoonsgegevens
 
-#### Poland
+### Poland
 
 **The Bureau of the Inspector General for the Protection of Personal Data - GIODO**
 ul. Stawki 2
@@ -302,7 +303,7 @@ Website: http://www.giodo.gov.pl/
 Art 29 WP Member: **Ms Edyta BIELAK-JOMAA**, Inspector General for the Protection
 of Personal Data
 
-#### Portugal
+### Portugal
 
 **Comissão Nacional de Protecção de Dados - CNPD**
 R. de São. Bento, 148-3° 1200-821 Lisboa
@@ -316,7 +317,7 @@ de Dados
 
 Art 29 WP Alternate Member: **Isabel CRUZ**, Secretary-General of the DPA
 
-#### Romania
+### Romania
 
 **The National Supervisory Authority for Personal Data Processing President: Mrs
 Ancuţa Gianina Opre**
@@ -333,7 +334,7 @@ Authority for Personal Data Processing
 Art 29 WP Alternate Member: **Ms Alina SAVOIU**, Head of the Legal and
 Communication Department
 
-#### Slovakia
+### Slovakia
 
 **Office for Personal Data Protection of the Slovak Republic**
 Hraničná 12
@@ -348,7 +349,7 @@ Protection of the Slovak Republic
 
 Art 29 WP Alternate Member: **Mr Anna VITTEKOVA**, Vice President
 
-#### Slovenia
+### Slovenia
 
 **Information Commissioner**
 Ms Mojca Prelesnik Zaloška 59
@@ -361,7 +362,7 @@ Website: https://www.ip-rs.si/
 Art 29 WP Member: **Ms Mojca PRELESNIK**, Information Commissioner of the Republic
 of Slovenia
 
-#### Spain
+### Spain
 
 **Agencia de Protección de Datos**
 C/Jorge Juan, 6
@@ -375,7 +376,7 @@ Art 29 WP Member: **Ms María del Mar España Martí**, Director of the Spanish 
 
 Art 29 WP Alternate Member: **Mr Rafael GARCIA GOZALO**
 
-#### Sweden
+### Sweden
 
 **Datainspektionen**
 Drottninggatan 29 5th Floor
@@ -391,7 +392,7 @@ Inspection Board
 
 Art 29 WP Alternate Member: **Mr Hans-Olof LINDBLOM**, Chief Legal Adviser
 
-#### United Kingdown
+### United Kingdown
 
 **The Information Commissioner’s Office**
 Water Lane, Wycliffe House Wilmslow - Cheshire SK9 5AF Tel. +44 1625 545 745
@@ -402,23 +403,23 @@ Art 29 WP Member: **Ms Elizabeth DENHAM**, Information Commissioner
 
 Art 29 WP Alternate Member: **Mr Steve WOOD**, Deputy Commissioner
 
-### EUROPEAN FREE TRADE AREA (EFTA)
+## EUROPEAN FREE TRADE AREA (EFTA)
 
-#### Iceland
+### Iceland
 
 Icelandic Data Protection Agency Rauðarárstíg 10
 105 Reykjavík
 Tel. +354 510 9600; Fax +354 510 9606
 e-mail: postur@personuvernd.is
 
-#### Liechtenstein
+### Liechtenstein
 
 Data Protection Office Kirchstrasse 8, P.O. Box 684
 9490 Vaduz
 Principality of Liechtenstein Tel. +423 236 6090
 e-mail: info.dss@llv.li
 
-#### Norway
+### Norway
 
 Datatilsynet
 The Data Inspectorate
@@ -428,7 +429,7 @@ e-mail: postkasse@datatilsynet.no
 
 Data Protection Authority: **Mr Bjørn Erik THORN**
 
-#### Switzerland
+### Switzerland
 
 Data Protection and Information Commissioner of Switzerland Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter **Mr Adrian Lobsiger**
 Feldeggweg 1

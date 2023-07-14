@@ -1,22 +1,14 @@
 ---
 title: Privacy Policy
+description: 'Personal Data Protection Policy. It describes BetterPic internal rules for personal data processing and protection.'
 category: Legal Document
 updated: 2023-03-30
 ---
-### Scope and Definitions
+## Scope and Definitions
 
-**Scope**. This Personal Data Protection Policy (the **“Policy”**) describes BetterPic internal rules for personal data processing and protection. The Policy applies to BetterPic, including BetterPic employees and contractors (**“we”, “us”, “our”, “BetterPic”**). The management of each entity is ultimately responsible for the implementation of this policy, as well as to ensure, at entity level, there are
-adequate and effective procedures in place for its implementation and ongoing
-monitoring of its adherence. For the purposes of this Policy, employees and
-contractors are jointly referred to as the **“employees”**.
+**Scope**. This Personal Data Protection Policy (the **“Policy”**) describes BetterPic internal rules for personal data processing and protection. The Policy applies to BetterPic, including BetterPic employees and contractors (**“we”, “us”, “our”, “BetterPic”**). The management of each entity is ultimately responsible for the implementation of this policy, as well as to ensure, at entity level, there are adequate and effective procedures in place for its implementation and ongoing monitoring of its adherence. For the purposes of this Policy, employees and contractors are jointly referred to as the **“employees”**.
 
-**Privacy Manager**. Privacy Manager is an employee of BetterPic responsible for
-personal data protection compliance within BetterPic (the “Privacy Manager”).
-The Privacy Manager is in charge of performing the obligations imposed by this
-Policy and supervising other employees, who subject to this Policy, regarding
-their adherence to this Policy. The Privacy Manager must be involved in all
-projects at an early stage in order to take personal data protection aspects into
-account as early as the planning phase.
+**Privacy Manager**. Privacy Manager is an employee of BetterPic responsible for personal data protection compliance within BetterPic (the “Privacy Manager”). The Privacy Manager is in charge of performing the obligations imposed by this Policy and supervising other employees, who subject to this Policy, regarding their adherence to this Policy. The Privacy Manager must be involved in all projects at an early stage in order to take personal data protection aspects into  account as early as the planning phase.
 
 |                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -34,26 +26,21 @@ account as early as the planning phase.
 | **Third Party**                     | means a natural or legal person, who accesses the Personal Data for further processing and is not an employee, member or corporate affiliate of BetterPic. This definition does not apply to natural persons, who provide services to BetterPic as contractors on a regular basis.                                                                                                                                                                                |
 | **User**                            | means a Data Subject who uses our services provided on BetterPic website.                                                                                                                                                                                                                                                                                                                                                                                         |
 
-### Data Processing Principles
+## Data Processing Principles
 
-2.1 BetterPic’s processing activities must be in line with the principles specified in this Section. The Privacy Manager must make sure that BetterPic’s compliance
-documentation, as well as data processing activities, are compliant with the
-data protection principles.
+2.1 BetterPic’s processing activities must be in line with the principles specified in this Section. The Privacy Manager must make sure that BetterPic’s compliance documentation, as well as data processing activities, are compliant with the data protection principles.
 
 2.2. We must process the Personal Data in accordance with the following principles:
 
-2.2.1. Lawfully, fairly and in a transparent manner **(lawfulness, fairness and transparency)**. We shall always have a legal ground for the processing
-(described in Section 3 of this Policy), collect the amount of data adequate to the purpose and legal grounds, and we make sure the Data Subjects are aware of the processing;
+2.2.1. Lawfully, fairly and in a transparent manner **(lawfulness, fairness and transparency)**. We shall always have a legal ground for the processing (described in Section 3 of this Policy), collect the amount of data adequate to the purpose and legal grounds, and we make sure the Data Subjects are aware of the processing;
 
 2.2.2. Collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes **(purpose limitation)**. We must not process the Personal Data for the purposes not specified in our compliance documentation without obtaining specific approval of the Privacy Manager.
 
 2.2.3. Adequate, relevant and limited to what is necessary for the purposes for which they are processed **(data minimization)**. We always make sure the data we collect is not excessive and limited by the strict necessity.
 
-2.2.4. Accurate and, where necessary, kept up to date **(accuracy)**. We endeavor to
-delete inaccurate or false data about Data Subjects and make sure we update the data. Data Subjects can ask us for a correction of the Personal Data.
+2.2.4. Accurate and, where necessary, kept up to date **(accuracy)**. We endeavor to delete inaccurate or false data about Data Subjects and make sure we update the data. Data Subjects can ask us for a correction of the Personal Data.
 
-2.2.5. Kept in a form which permits identification of Data Subjects for no longer than is necessary for the purposes for which the Personal Data are processed
-**(storage period limitation)**. The storage periods must be limited as prescribed by Data Protection Laws and this Policy.
+2.2.5. Kept in a form which permits identification of Data Subjects for no longer than is necessary for the purposes for which the Personal Data are processed **(storage period limitation)**. The storage periods must be limited as prescribed by Data Protection Laws and this Policy.
 
 2.2.6. Process in a manner that ensures appropriate security of the Personal Data, including protection against unauthorized or unlawful processing and accidental loss, destruction or damage, using appropriate technical or organizational measures **(confidentiality, integrity, and availability)**.
 
@@ -98,7 +85,7 @@ processing activity:
   applicable), and general description of technical and organizational security
   measures.
 
-### Access to Personal Data. Legal Grounds and Purposes
+## Access to Personal Data. Legal Grounds and Purposes
 
 **3.1. Legal grounds.**
 
@@ -155,7 +142,7 @@ Member State to process Personal Data of our Users. For example, we can be requi
 
 3.2.8. Any occasional access to personal data for activities not specified in the Records of processing activities is prohibited. If there is a strict necessity for immediate access, the Privacy Manager must approve the access first.
 
-### Third Parties
+## Third Parties
 
 4.1. Before sharing personal data with any person outside of BetterPic, the Privacy
 Manager must ensure that this Third Party has an adequate data protection level and provide sufficient data protection guarantees in accordance with Data Protection Laws, including, but not limited to the processorship requirements (Art. 28 of the GDPR) and international transfers compliance (Section 5 of the GDPR). Where necessary, the Privacy Manager must make sure that BetterPic enters into the appropriate data protection contract with the third party.
@@ -168,7 +155,7 @@ that was directly prescribed by the manager and specified in the Records of proc
 4.4. Whenever BetterPic is engaged as a data processor on behalf of another entity,
 the Privacy Manager must make sure BetterPic complies with the processorship obligation. In particular, the appropriate data processing agreement in accordance with the Data Protection Laws must be in place. The Privacy Manager must supervise the compliance with data processing instructions from the controller, including regarding the scope of processing activities, involvement of sub-processors, international transfers, storage, and further disposal of processed personal data. The personal data processed under the processor role must not be processed for any other purposes than specified in the relevant instructions, agreement or other legal act regulating the relationships with the controller.
 
-### International Transfers
+## International Transfers
 
 
 5.1 If we have the employees, contractors, corporate affiliates, or Data Processors outside of the EEA, and we transfer Personal Data to them for the processing, the Privacy Manager must make sure BetterPic takes all necessary and appropriate safeguards in accordance with Data Protection Laws.
@@ -183,7 +170,7 @@ we also can transfer Personal Data to entities that have an approved certificati
 
 5.4 In the exceptional cases (the “Derogation”), where we cannot apply the safeguards mentioned afore and we need to transfer Personal Data, we must take an explicit consent (active statement) from the Data Subject or it must be strictly necessary for the performance of the contract between us and the Data Subject, or other derogation conditions apply in accordance with the Data Protection Laws. The Privacy Manager must pre-approve any Derogation transfers and document the approved Derogations, as well as the rationale for them.
 
-### Rights of Data Subjects
+## Rights of Data Subjects
 
 6.1 **Our Responsibilities**.
 
@@ -281,7 +268,7 @@ For the activities that require consent, the Data Subject can revoke their conse
 
 6.9.3 To comply with the request, the responsible employee must consolidate requested Personal Data and send the data in the format we are usually working with to the requested organization. The Data Subject must provide the necessary contact details of the organization.
 
-### New Data Processing Activities
+## New Data Processing Activities
 
 7.1 **Notification to Privacy Manager**
 
@@ -314,7 +301,7 @@ For the activities that require consent, the Data Subject can revoke their conse
 
 7.2.4 Where the DPIA did not provide how to effectively address the risks, the Privacy Manager must initiate the consultation with the competent Supervisory Authority to receive help with searching for the solution. In this case, BetterPic must not conduct the activity before the Supervisory Authority approves the processing activity in question.
 
-### Data Retention
+## Data Retention
 
 8.1 **General Rule**.
 
@@ -334,13 +321,13 @@ For the activities that require consent, the Data Subject can revoke their conse
 
 8.2.3 **Anonymization**. The Personal Data can be further processed for any purposes (e.g., marketing) if we fully anonymize these data after the retention period is expired. This means that all personal identifiers and connections to them will be deleted from the data. To consider Personal Data anonymous, it must be impossible to reidentify the Data Subject from the data set.
 
-### Security
+## Security
 
 9.1 Each department within BetterPic shall take all appropriate technical and organizational measures that protect against unauthorized, unlawful, and/or accidental access, destruction, modification, blocking, copying, distribution, as well as from other illegal actions of unauthorized persons regarding the personal data under their responsibility.
 
 9.2 The employee responsible for the supervision after the security of personal data within BetterPic shall be the Chief Human Resources Officer. This person implements the guidelines and other specifications on data protection and information security in his area of responsibility. He/she advises BetterPic management on the planning and implementation of information security in BetterPic, and must be involved in all projects at an early stage in order to take security-related aspects into account as early as the planning phase.
 
-### Data Breach Response Procedure
+## Data Breach Response Procedure
 
 10.1 **Response Team**.
 
