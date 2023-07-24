@@ -15,7 +15,7 @@ But what if we told you there was a quicker, easier, more affordable way to get 
 
 Yes, that is accurate. We're referring to BetterPic's AI-generated professional headshots service. With the help of BetterPic, you can get incredible headshots that are ideal for corporate teams and individuals. By using artificial intelligence, our AI-photographer can create stunning portraits, profile pictures, and PFPs instead of paying for pricey photoshoots. For a distinctive online presence, you can also benefit from the convenience of our image and picture generators.
 
-In this blog post, we'll give you some advice on how to get the best executive headshot for various platforms and uses, as well as how to pose for it. We'll also demonstrate how BetterPic can assist you in taking a headshot that exudes confidence, professionalism, and authenticity. Let's begin!.
+In this blog post, we'll give you some advice on how to get the best executive headshot for various platforms and uses, as well as how to pose for it. We'll also demonstrate how BetterPic can assist you in taking a headshot that exudes confidence, professionalism, and authenticity. Let's begin!
 
 ## How to Prepare for Your Executive Headshot
 Making yourself ready for the photo shoot is the first step in creating a great executive headshot. This entails dressing appropriately for your industry, role, and personal style by selecting the appropriate outfit, hairstyle, makeup, and accessories. 

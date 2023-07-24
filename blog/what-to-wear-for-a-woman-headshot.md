@@ -91,6 +91,6 @@ With BetterPic, you can customize your headshot to suit your tastes and requirem
 
 BetterPic is quick, simple, and reasonably priced. Beautiful portraits, profile pictures, and PFPs can be made quickly. Additionally, you can produce numerous headshots for use on various platforms and for various purposes.
 
-Stop waiting right now. Create your own professional woman headshots right away by using BetterPic!.
+Stop waiting right now. Create your own professional woman headshots right away by using BetterPic!
 
 

@@ -30,12 +30,12 @@ The most typical and widely used style of professional headshot is the tradition
 
 The following is an illustration of a traditional business headshot made with BetterPic:
 
-![business headshot of a woman with blue shirt](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-554.jpg&w=768&q=70)
+![business headshot of a woman with blue shirt](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-258.jpg&w=768&q=70)
 
 This headshot meets the standards for a traditional business headshot, as you can see. Its background is a plain gray color, which takes away all background noise and puts the focus on the face. It has a dapper suit that conveys a sense of style and class. Warmth and friendliness are conveyed by its smile.
 
 ## Headshot Example Nº2: The Actor Headshot
-For actors, the actor headshot is the most crucial kind of headshot. It has a plain background, a fresh appearance, and an impartial expression. This kind of headshot can highlight your acting versatility, potential, and talent.
+For actors, the actor headshot is the most crucial kind of headshot. It has a cool background, a fresh appearance, and an impartial expression. This kind of headshot can highlight your acting versatility, potential, and talent.
 
 Here is an actor headshot made with BetterPic:
 
@@ -81,4 +81,4 @@ Cheap, quick, and easy describe BetterPic. Beautiful business portraits, profile
 
 Take action right away.
 
-Create your own corporate headshots right now by using BetterPic!.
+Create your own corporate headshots right now by using BetterPic!
