@@ -27,7 +27,7 @@ AI-generated headshots also offer more flexibility and control than conventional
 
 You can select from a range of options and styles when using AI-generated headshots to build your ideal image. Your headshot can be modified to fit your purpose and personality by changing the lighting, background, angle, and mood. You can also try out various facial expressions and looks to see which one best suits you.
 
-You might opt for a professional and assured appearance, for instance, if you need a headshot for your resume or LinkedIn profile. You can select a neutral or solid background color, a bright or natural lighting effect, and a straight or slightly angled angle. To express your attitude and demeanor, you can also choose a smile or a serious expression.
+You might opt for a professional and assured appearance, for instance, if you need a headshot for your resume or LinkedIn profile. You can select a neutral or solid background color, a bright or natural lighting effect, and a straight or slight angle. To express your attitude and demeanor, you can also choose a smile or a serious expression.
 
 Consider going for a more unique and individual look if you need a headshot for your website or social media. A dynamic or artistic lighting effect, a colorful or textured background pattern, and a side or diagonal angle are all options. You can also choose a silly or odd expression to reflect your personality and sense of style.
 

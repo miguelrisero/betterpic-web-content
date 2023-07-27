@@ -13,7 +13,7 @@ However, as they advance in their careers, engineers also face a variety of obst
 
 BetterPic is ready to support you in this regard. Engineers can create stunning, professional headshots without the hassle of photoshoots thanks to BetterPic, an AI headshot generator. Our simple interface allows you to change your background, style, pose, expression, filters, and effects. You can create a variety of headshots and select the one that best represents you.
 
-The advantages of using ai expert headshots for your engineer career development are discussed in this blog. These advantages will help you improve your online visibility and presence, develop your personal brand and reputation, and boost your self-confidence and self-esteem whether you are a student, recent graduate, or an accomplished engineer.
+The advantages of using AI expert headshots for your engineer career development are discussed in this blog. These advantages will help you improve your online visibility and presence, develop your personal brand and reputation, and boost your self-confidence and self-esteem whether you are a student, recent graduate, or an accomplished engineer.
 
 ## Benefit 1: Enhance Your Online Presence and Visibility
 You must be well-known and visible online if you want to succeed as an engineer. To prospective employers, clients, and partners, you must highlight your abilities, projects, and accomplishments. Additionally, you should network with other engineers and industry experts. You can attain these ends by investing in a professional headshot.
@@ -64,7 +64,7 @@ As an illustration:
 
 - Use your distinctive headshot to make engaging videos that showcase your knowledge of engineering systems, products, and processes while also showcasing your projects, accomplishments, and skills. It can also help you grow and keep your audience, attract likes and subscribers, and monetize your videos.
 
-![professional engineer headshot of a white guy with blue clotes](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-94.jpg&w=768&q=70)
+![professional engineer headshot of a white guy with blue clothes](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-94.jpg&w=768&q=70)
 
 ## Benefit 3: Increase your Confidence and Self-Esteem
 You must be extremely self-assured and confident to be an engineer. It's important to have confidence in your own potential, skills, and abilities. Additionally, you must have confidence in your appearance, image, and self-worth. You can achieve these goals by having a self-assured headshot.

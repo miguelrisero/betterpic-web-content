@@ -7,7 +7,7 @@ date: 2023-07-05
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ## Introduction
-The quality and outcome of your linkedin headshot photos can significantly change if you choose a skilled photographer. Finding a headshot photographer with experience, talent, and style is important, especially for male models.
+The quality and outcome of your LinkedIn headshot photos can significantly change if you choose a skilled photographer. Finding a headshot photographer with experience, talent, and style is important, especially for male models.
 
 To see their prior work and reviews, you can start by visiting their portfolio, website, or social media accounts. Additionally, you can enlist the help of other models who have previously collaborated with them, as well as your friends, coworkers, and acquaintances.
 
@@ -55,7 +55,7 @@ Any photo editing program or app can be used to crop, resize, and optimize your 
 
 Before uploading your headshot to LinkedIn, you should also see how it appears on various computers and browsers. To test your image on various screen sizes and resolutions, you can use online tools like Responsive Design Checker or BrowserStack.
 
-## Try Betterpic LinkedIn Headshots Service
+## Try BetterPic LinkedIn Headshots Service
 Try BetterPic's AI-generated professional headshots service if you want to elevate your headshot to the next level. It's ideal for business people and teams who want to improve the perception of their personal brands through beautiful portraits, profile pictures, and PFPs.
 
 From any image you upload, BetterPic uses artificial intelligence to produce realistic and attractive headshots. To tailor your headshot to your tastes and requirements, you can select from a variety of styles, backgrounds, and filters.
@@ -71,7 +71,7 @@ People frequently make certain errors when taking or selecting their LinkedIn he
 - Making a headshot out of a selfie. Selfies are not professional and can make you appear unprepared, unprofessional, or even narcissistic. Additionally, they frequently have poor quality, lighting, and angles. Use a tripod, a timer, a friend, or a third party to take your headshot instead of taking a selfie.
 
 
-- Using a ai generated headshot that is unreliable or outdated. Your headshot should depict how you currently appear, not how you did ten years ago, before you altered your hairstyle or got new glasses. Using an out-of-date or incorrect headshot can make you come across as dishonest or uninformed. Use a current headshot that accurately represents you rather than one that is out-of-date or inaccurate.
+- Using an AI generated headshot that is unreliable or outdated. Your headshot should depict how you currently appear, not how you did ten years ago, before you altered your hairstyle or got new glasses. Using an out-of-date or incorrect headshot can make you come across as dishonest or uninformed. Use a current headshot that accurately represents you rather than one that is out-of-date or inaccurate.
 
 
 - Using a professional headshot that is distorted or unsuitable. Your face should be in the center of the photograph; no other people, animals, or objects should be in the background. It may make you appear unprofessional or irrelevant to crop your headshot from a group photo or to use a picture from a party or vacation. Use a headshot that was taken especially for LinkedIn and that only features you, as opposed to one that is cropped or inappropriate.
@@ -83,4 +83,4 @@ You can take a great headshot for LinkedIn on your own if you heed the advice in
 
 In addition, if you want to step it up, you can use BetterPic's AI-generated professional headshots service, which will produce stunning headshots for you in a matter of minutes.
 
-Now that you know how to take a professional headshot for LinkedIn, what are you waiting for? try Betterpic ai headshot generator and get ready to dazzle.
+Now that you know how to take a professional headshot for LinkedIn, what are you waiting for? try BetterPic AI headshot generator and get ready to dazzle.

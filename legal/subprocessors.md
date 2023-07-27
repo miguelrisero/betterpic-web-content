@@ -10,7 +10,7 @@ BetterPic.io engages certain sub-processors, including third parties listed belo
 
 ## What is a Sub-processor?
 
-A Sub-processor refers to a third-party data processor that has been engaged by BetterPic.ai. This includes entities within the BetterPic.ai group that may have access to or process Customer Content containing personal information. The various functions performed by different types of sub-processors are detailed in the tables below.
+A Sub-processor refers to a third-party data processor that has been engaged by BetterPic.io. This includes entities within the BetterPic.ai group that may have access to or process Customer Content containing personal information. The various functions performed by different types of sub-processors are detailed in the tables below.
 
 ## Due Diligence & Contractual Safeguards
 

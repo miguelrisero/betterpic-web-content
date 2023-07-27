@@ -42,7 +42,7 @@ As a result, improving your executive presence requires having a polished and ap
 
 - **Boost your presence and participation**: Your target audience's eyes should be drawn to your profile picture, drawing them to your page. They ought to be encouraged to communicate with you in return.
 
-Here you can see a example of how AI-generated headshots can improve your LinkedIn profile picture:
+Here you can see an example of how AI-generated headshots can improve your LinkedIn profile picture:
 
 ![professional portrait of a white woman with white suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-52.jpg&w=768&q=70)
 
@@ -72,9 +72,9 @@ In order to improve your executive presence, it is crucial to have a polished an
 - **Gain more exposure and participation**: Your audience should be interested in your team member profile picture and want to know more about you. It should also encourage them to get in touch with you.
 
 ## BetterPic to Generate AI-Headshots
-Betterpic is a web-based AI headshot maker that can produce realistic HD AI headshots and profile pictures quickly and expertly. It generates a variety of headshots that fit your purpose and style using cutting-edge artificial intelligence technology that analyzes your facial features, expressions, and preferences.
+BetterPic is a web-based AI headshot maker that can produce realistic HD AI headshots and profile pictures quickly and expertly. It generates a variety of headshots that fit your purpose and style using cutting-edge artificial intelligence technology that analyzes your facial features, expressions, and preferences.
 
-Betterpic is the best option for creating AI headshots thanks to its many features and advantages. Here are a few of them:
+BetterPic is the best option for creating AI headshots thanks to its many features and advantages. Here are a few of them:
 
 - **Fast generating speed**: Ready for you in just 2 to 24h.
 

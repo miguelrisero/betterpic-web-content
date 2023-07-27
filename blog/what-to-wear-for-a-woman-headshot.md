@@ -39,7 +39,7 @@ Woman headshot casual style, such as a shirt or a sweater, can work well with wo
 
 Women who want to demonstrate their originality, flair, and creativity in their line of work can look good wearing creative clothing, like a jacket or scarf.
 
-Here is a asian business woman headshot example created with BetterPic:
+Here is an asian businesswoman headshot example created with BetterPic:
 
 ![asian business woman headshot with white suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-455.jpg&w=768&q=70)
 

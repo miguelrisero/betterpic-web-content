@@ -168,7 +168,7 @@ we also can transfer Personal Data to entities that have an approved certificati
 
 5.3 As a part of the information obligations, BetterPic must inform the Data Subjects that their Personal Data is being transferred to other countries, as well as provide them with the information about the safeguards used for the transfer. The information obligation is to be performed in accordance with Subsection 6.2.
 
-5.4 In the exceptional cases (the “Derogation”), where we cannot apply the safeguards mentioned afore and we need to transfer Personal Data, we must take an explicit consent (active statement) from the Data Subject or it must be strictly necessary for the performance of the contract between us and the Data Subject, or other derogation conditions apply in accordance with the Data Protection Laws. The Privacy Manager must pre-approve any Derogation transfers and document the approved Derogations, as well as the rationale for them.
+5.4 In the exceptional cases (the “Derogation”), where we cannot apply the safeguards mentioned afore and we need to transfer Personal Data, we must take an explicit consent (active statement) from the Data Subject, or it must be strictly necessary for the performance of the contract between us and the Data Subject, or other derogation conditions apply in accordance with the Data Protection Laws. The Privacy Manager must pre-approve any Derogation transfers and document the approved Derogations, as well as the rationale for them.
 
 ## Rights of Data Subjects
 
@@ -333,7 +333,7 @@ For the activities that require consent, the Data Subject can revoke their conse
 
 10.1.1 In case of revealing the Data Breach, CEO of BetterPic shall urgently form the Data Breach Response Team (the **“Response Team”**), which will handle the Data Breach, notify the appropriate persons, and mitigate its risks.
 
-10.1.2 The Response Team must be а multi-disciplinary group headed by CEO of BetterPic and comprised of the Privacy Manager, privacy laws specialist (whether internal or external), and knowledgeable and skilled information security specialists within BetterPic or outsourcing professionals, if necessary. The team must ensure that all employees and engaged contractors/processors adhere to this Policy and provide an immediate, effective, and skillful response to any suspected/alleged or actual Data Breach affecting BetterPic.
+10.1.2 The Response Team must be а multidisciplinary group headed by CEO of BetterPic and comprised of the Privacy Manager, privacy laws specialist (whether internal or external), and knowledgeable and skilled information security specialists within BetterPic or outsourcing professionals, if necessary. The team must ensure that all employees and engaged contractors/processors adhere to this Policy and provide an immediate, effective, and skillful response to any suspected/alleged or actual Data Breach affecting BetterPic.
 
 10.1.3 The potential members of the Response Team must be prepared to respond to а Data Breach. The Response Team shall perform all the responsibilities of BetterPic mentioned in this Policy. The duties of the Response Team are:
 - to communicate the Data Breach to the competent Supervisory Authority(-ies);

@@ -63,4 +63,4 @@ You can create a stunning headshot that highlights your best features, personali
 
 Additionally, if you want to step it up, you can use BetterPic's AI-generated professional headshots service, which will quickly produce stunning headshots for you.
 
-What are you waiting for? Try the Betterpic ai image generator and get ready to dazzle with your male model headshot.
+What are you waiting for? Try the BetterPic AI image generator and get ready to dazzle with your male model headshot.

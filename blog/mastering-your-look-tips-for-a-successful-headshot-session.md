@@ -35,7 +35,7 @@ For example:
 
 - A formal approach can give off a serious, competent, and authoritative vibe. You can select a suit, shirt, tie, or blouse that goes with your profession and job.
 
-- An approachable, relaxed appearance can be achieved by dressing casually. Choose clothing that fits your personality and target market, such as a sweater, t-shirt, pair of jeans, or dress.
+- An approachable, relaxed appearance can be achieved by dressing casually. Choose clothing that fits your personality and target market, such as a sweater, t-shirt, a pair of jeans, or dress.
 
 - A creative approach can produce a dynamic, avant-garde, and expressive appearance. You can wear something that demonstrates your flair and creativity.
 
