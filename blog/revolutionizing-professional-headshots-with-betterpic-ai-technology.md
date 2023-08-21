@@ -1,6 +1,6 @@
 ---
 title: 'Revolutionizing Professional Headshots with BetterPic'
-category: AI in Professional Headshots
+category: Professional Headshots
 description: Explore BetterPic's AI tech in professional headshots. Learn benefits, quality, personal branding, and how to use BetterPic ai headshots service.
 readtime: 6
 date: 03/08/2023
