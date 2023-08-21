@@ -3,7 +3,7 @@ title: 'Creating the Perfect and Unified Team AI Headshot with BetterPic'
 category: Team Headshots
 description: Explore BetterPic's AI for team headshots. Learn about unified images, AI benefits, a step-by-step guide, integration tips, and the impact on branding.
 readtime: 4
-date: 05/08/2023
+date: 08/05/2023
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ## The Importance of a Unified Team Image
