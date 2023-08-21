@@ -3,7 +3,7 @@ title: '6 Headshot Examples That Will Boost your Personal Brand'
 category: Headshot Examples
 description: BetterPic's AI-generated headshots are a game-changer for personal branding. Create stunning headshots for any industry or platform with ease.
 readtime: 6
-date: 2023-07-03
+date: 2023-08-21
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ## Introduction

@@ -3,7 +3,7 @@ title: 'Professional Headshot for Realtors'
 category: Professions
 description: Upgrade your realtor headshot and attract more leads with these tips. Dress professionally, smile authentically, and choose a suitable background.
 readtime: 4
-date: 2023-06-27
+date: 2023-06-16
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ## Introduction

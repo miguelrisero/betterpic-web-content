@@ -3,7 +3,7 @@ title: 'How AI Headshots for Lawyers is Changing the Industry'
 category: Professions
 description: Learn how AI headshot technology is revolutionizing the process of producing legal professionals' headshots. You can improve your online presence, client relationships, and ability to stand out from the competition by using AI-generated headshots.
 readtime: 6
-date: 2023-06-27
+date: 2023-06-24
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ## Introduction

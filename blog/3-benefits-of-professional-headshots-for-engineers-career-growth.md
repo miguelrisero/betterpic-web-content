@@ -3,7 +3,7 @@ title: '3 Benefits of Professional Headshots for Engineers Career Growth'
 category: Professions
 description: Enhance your engineering career with BetterPic's AI headshot generator. Build your online presence, and personal brand with engineer professional headshots.
 readtime: 6
-date: 2023-07-03
+date: 2023-07-13
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ## Introduction

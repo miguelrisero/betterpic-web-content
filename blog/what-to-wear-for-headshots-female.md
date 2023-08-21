@@ -3,7 +3,7 @@ title: 'What to Wear for Headshots Female'
 category: AI Photos
 description: Discover how to create professional female headshots with helpful tips on posing, attire, and taking the perfect shot. Elevate your personal brand now!
 readtime: 6
-date: 2023-06-30
+date: 2023-08-09
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ## Introduction
