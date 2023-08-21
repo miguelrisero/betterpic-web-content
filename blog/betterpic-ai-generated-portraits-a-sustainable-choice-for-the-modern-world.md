@@ -3,7 +3,7 @@ title: 'BetterPic AI-Generated Portraits: A Sustainable Choice for the Modern Wo
 category: Sustainability
 description: Explore BetterPic's sustainable AI portraits. Learn about eco-friendly practices, benefits for businesses, and a guide to using BetterPic's services
 readtime: 5
-date: 08/07/2023
+date: 2023-08-17
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ## The Environmental Impact of Traditional Photography
