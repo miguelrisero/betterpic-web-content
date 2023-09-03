@@ -1,0 +1,20 @@
+{
+  "faqs": [
+    {
+      "question": "What exactly is an AI business headshot?",
+      "answer": "An AI business headshot is a digitally generated portrait created using machine learning algorithms. Unlike traditional headshots, which require a photographer and physical setup, AI headshots are generated quickly and affordably."
+    },
+    {
+      "question": "How reliable are AI-generated headshots?",
+      "answer": "AI-generated headshots have become increasingly reliable and realistic due to advancements in machine learning and neural networks. They are suitable for various applications from professional settings to social media."
+    },
+    {
+      "question": "Can I use an AI headshot for professional purposes like LinkedIn or corporate profiles?",
+      "answer": "Yes, AI headshots are frequently used for LinkedIn profiles, corporate websites, and even resumes. They offer a quick and cost-effective way to have a professional-looking portrait."
+    },
+    {
+      "question": "How do AI professional headshots compare to traditional photography in terms of cost and convenience?",
+      "answer": "AI professional headshots are generally more cost-effective and convenient than traditional photography. They can be generated quickly and offer a variety of customization options, eliminating the need for scheduling, travel, and lengthy photo sessions."
+    }
+  ]
+}
