@@ -3,7 +3,7 @@ title: 'Price Comparison in Professional Studios in the United States and Europe
 category: AI Photos
 description: Compare the costs and benefits of traditional headshot photography vs. AI-generated headshots from providers like BetterPic. Make an informed choice for your professional portrait needs.
 readtime: 4
-date: 2023-09-14
+date: 2023-09-05
 cover: /assets/blog/<blog>/cover.jpg
 ---
 ## Introduction
