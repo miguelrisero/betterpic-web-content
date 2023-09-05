@@ -1,0 +1,25 @@
+{
+  "faqs": [
+    {
+      "question": "How to take professional headshots?",
+      "answer": "Taking professional headshots requires careful attention to lighting, background, wardrobe, and posing. Make sure to use a quality camera or smartphone with a high-resolution lens. Position yourself in soft, even lighting, choose a simple background that doesn't distract, and wear professional attire. Pose naturally, and consider using a tripod or asking someone to assist you. For an even easier option, try BetterPic's AI-generated professional headshots service."
+    },
+    {
+      "question": "Can you show an example of female modern professional headshots?",
+      "answer": "Sure! Here is an example of a modern professional headshot for females.",
+      "image_url": "https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-416.jpg&w=768&q=70"
+    },
+    {
+      "question": "What should I wear for professional headshots?",
+      "answer": "Wear something that reflects your industry and the image you want to portray. Choose solid colors or simple patterns, avoid anything too flashy, and make sure your clothes are clean and wrinkle-free. Traditional business attire often works well. Coordinate your outfit to complement your skin tone and hair color."
+    },
+    {
+      "question": "Where can I get professional headshots?",
+      "answer": "You can hire a professional photographer, visit a studio, or even take them yourself with a good camera setup. Alternatively, for an affordable and convenient option, you can use BetterPic's AI-generated professional headshots service, allowing you to create stunning headshots from the comfort of your home."
+    },
+    {
+      "question": "How much do professional headshots typically cost?",
+      "answer": "The cost of professional headshots can vary widely, ranging from $100 to over $1000, depending on the photographer's experience, location, and package options. In comparison, BetterPic offers AI-generated professional headshots at a fraction of the cost, making it an attractive and cost-effective option for those looking for high-quality headshots without breaking the bank."
+    }
+  ]
+}
