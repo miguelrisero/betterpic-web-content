@@ -16,7 +16,7 @@ In this article, we will examine the pros of AI-generated headshots in terms of 
 ## Cost
 AI professional headshots are much more affordable than conventional headshots, which is one of their main advantages. In the US, a headshot session usually costs $150. This covers the photographer's fee, studio rental, makeup artist fees, and editing services. The cost may increase to $500 or more depending on the photographer's reputation, quality, and location.
 
-AI headshots, on the other hand, are more affordable to purchase. For instance, BetterPic is an AI headshot maker that costs $19 to produce high-quality headshots. You can use it and judge the results for yourself.
+AI headshots, on the other hand, are more affordable to purchase. For instance, BetterPic is an AI headshot maker that costs $25 to produce high-quality headshots. You can use it and judge the results for yourself.
 
 You won't need to pay for a photographer, studio rental, makeup artist, or editing services if you use AI-generated headshots. You also don't have to waste time getting to appointments, getting there, or posing for pictures. Online, you can easily and quickly get your headshot.
 
