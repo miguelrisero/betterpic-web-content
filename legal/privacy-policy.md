@@ -4,6 +4,8 @@ description: 'Personal Data Protection Policy. It describes BetterPic internal r
 category: Legal Document
 updated: 2023-03-30
 ---
+**About BetterPic:** BetterPic is a digital service operated and managed by IndieInnova, S.L. ("IndieInnova"). For the purposes of this Policy, references to "BetterPic" shall pertain to the digital service provided by IndieInnova, S.L. All matters related to BetterPic, including this Privacy Policy, are governed by the laws of Spain.
+
 ## Scope and Definitions
 
 **Scope**. This Personal Data Protection Policy (the **“Policy”**) describes BetterPic internal rules for personal data processing and protection. The Policy applies to BetterPic, including BetterPic employees and contractors (**“we”, “us”, “our”, “BetterPic”**). The management of each entity is ultimately responsible for the implementation of this policy, as well as to ensure, at entity level, there are adequate and effective procedures in place for its implementation and ongoing monitoring of its adherence. For the purposes of this Policy, employees and contractors are jointly referred to as the **“employees”**.

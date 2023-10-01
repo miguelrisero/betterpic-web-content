@@ -4,6 +4,8 @@ description: 'Refund Policy for BetterPic. This policy outlines the circumstance
 category: Legal Document
 updated: 2023-09-05
 ---
+**About BetterPic:** BetterPic is a digital service operated and managed by IndieInnova, S.L. ("IndieInnova"). For the purposes of this Policy, references to "BetterPic" shall pertain to the digital service provided by IndieInnova, S.L. All matters related to BetterPic, including this Refund Policy, are governed by the laws of Spain.
+
 ## Introduction
 Welcome to **BetterPic (“Company”, “we”, “our”, “us”)**! We are committed to providing a fair refund policy to our customers. This Refund Policy, governed by the previous Terms of Service, outlines the circumstances in which refunds can be made.
 

@@ -4,6 +4,8 @@ description: 'BetterPic.io engages certain sub-processors, including third parti
 category: Legal Document
 updated: 2023-03-30
 ---
+**About BetterPic:** BetterPic is a digital service operated and managed by IndieInnova, S.L. ("IndieInnova"). For the purposes of this Policy, references to "BetterPic" shall pertain to the digital service provided by IndieInnova, S.L. All matters related to BetterPic are governed by the laws of Spain.
+
 ## Sub-processors
 
 BetterPic.io engages certain sub-processors, including third parties listed below and content delivery networks to assist in the provision of BetterPic.io Services as outlined in the Master Subscription and Professional Services Agreement (MSA). Any defined terms used herein shall have the same meaning as defined in the MSA.
@@ -42,7 +44,6 @@ BetterPic.io collaborates with certain third parties to provide specific functio
 | Google LLC                        | Analytics             | US                 |
 | Hotjar, Ltd                       | UX analytics          | US                 |
 | OpenAI                            | AI content generation | US                 |
-| Stability AI, LTD                 | AI image generation   | US                 |
 
 ## Content Delivery Networks
 

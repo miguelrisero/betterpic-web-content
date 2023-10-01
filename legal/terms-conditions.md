@@ -4,6 +4,8 @@ description: 'Terms & Conditions for BetterPic. They govern your use of our web 
 category: Legal Document
 updated: 2023-03-30
 ---
+**About BetterPic:** BetterPic is a digital service operated and managed by IndieInnova, S.L. ("IndieInnova"). For the purposes of this Policy, references to "BetterPic" shall pertain to the digital service provided by IndieInnova, S.L. All matters related to BetterPic, including this Terms & Conditions, are governed by the laws of Spain.
+
 ## Introduction
 
 Welcome to **BetterPic (“Company”, “we”, “our”, “us”)**! As you have just clicked our Terms of Service, please pause, grab a cup of coffee and carefully read the following pages. It will take you approximately 20 minutes.
