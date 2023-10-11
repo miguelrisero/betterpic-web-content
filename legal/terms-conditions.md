@@ -2,7 +2,7 @@
 title: Terms & Conditions
 description: 'Terms & Conditions for BetterPic. They govern your use of our web pages located at various countries in Europe and also the United States of America, operated by BetterPic.'
 category: Legal Document
-updated: 2023-03-30
+updated: 2023-10-11
 ---
 **About BetterPic:** BetterPic is a digital service operated and managed by IndieInnova, S.L. ("IndieInnova"). For the purposes of this Policy, references to "BetterPic" shall pertain to the digital service provided by IndieInnova, S.L. All matters related to BetterPic, including this Terms & Conditions, are governed by the laws of Spain.
 
@@ -131,6 +131,20 @@ For more information on what type of information Firebase collects, please visit
 **Cloudflare analytics**
 
 Cloudflare analytics is a web analytics service operated by Cloudflare Inc. [Read the Privacy Policy here](https://www.cloudflare.com/privacypolicy/).
+
+### Data Retention of Photos and AI Models
+
+Any images uploaded to our Service are used solely for the creation of AI models and the generation of headshots. Please note these uploaded images and their associated AI models are automatically deleted from our systems within 7 days from the date the headshots were generated.
+
+These photos serve the sole purpose of generating the headshots for that period and are not used to train any of our future AI models or for any further processing. This 7-day retention period also facilitates any potential requirements for image regeneration, allows us to address any potential dissatisfaction with the results or to verify if our photo requirements were complied with in the event of requested refunds.
+
+### Subprocessors and Data Transfers
+
+Any data related to your use of our Service that is transferred outside of the European Economic Area (EEA) is anonymized. This includes analytics related to the pages visited on BetterPic and is used for our internal customer journey analysis. Please be assured that there is no external capability to identify any specific customer from this data.
+
+All sensitive data, specifically photos, AI model generation, and storage of resultant images are managed within the European Economic Area (EEA). We rely on Amazon Web Services, within the Frankfurt region, for cloud-based storage and we use NyxAI for some of our AI processing. NyxAI commits to deleting all data within 7 days of processing.
+
+Please note that we approach data handling in strict accordance with our [Privacy Policy](https://www.betterpic.io/legal/privacy-policy) and would never misuse your information in any way. Your trust is of upmost importance to us.
 
 ### No Use By Minors
 
