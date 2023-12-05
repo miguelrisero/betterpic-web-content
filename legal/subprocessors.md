@@ -4,7 +4,7 @@ description: 'BetterPic.io engages certain sub-processors, including third parti
 category: Legal Document
 updated: 2023-03-30
 ---
-**About BetterPic:** BetterPic is a digital service operated and managed by IndieInnova, S.L. ("IndieInnova"). For the purposes of this Policy, references to "BetterPic" shall pertain to the digital service provided by IndieInnova, S.L. All matters related to BetterPic are governed by the laws of Spain.
+**About BetterPic:** BetterPic is a digital service operated and managed by Recedo Group LLC-FZ ("Recedo Group"). For the purposes of this Policy, references to "BetterPic" shall pertain to the digital service provided by Recedo Group LLC-FZ. All matters related to BetterPic are governed by the laws of Dubai.
 
 ## Sub-processors
 
