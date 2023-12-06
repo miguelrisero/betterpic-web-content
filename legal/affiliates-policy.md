@@ -68,7 +68,7 @@ The terms and conditions of this agreement may be modified by us at any time. If
 Affiliate shall indemnify and hold harmless BetterPic and its affiliate and subsidiary companies, officers, directors, employees, licensees, successors, and assigns, including those licensed or authorized by BetterPic to transmit and distribute materials, from any and all liabilities, damages, fines, judgments, claims, costs, losses, and expenses (including reasonable legal fees and costs) arising out of or related to any and all claims sustained in connection with this Agreement due to the negligence, misrepresentation, failure to disclose, or intentional misconduct of Affiliate.
 
 ## 10. Governing Law, Jurisdiction, and Attorney Fees
-This Agreement shall be governed by and construed in accordance with the laws of Spain. Any dispute arising under or related in any way to this Agreement shall be adjudicated exclusively in the state courts located in Spain.
+This Agreement shall be governed by and construed in accordance with the laws of Dubai. Any dispute arising under or related in any way to this Agreement shall be adjudicated exclusively in the state courts located in Dubai.
 
 In the event of litigation to enforce any provision of this Agreement, the prevailing party will be entitled to recover from the other party its costs and fees, including reasonable legal fees.
 

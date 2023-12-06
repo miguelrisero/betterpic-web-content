@@ -38,7 +38,7 @@ This Refund Policy is subject to change at BetterPic's sole discretion. Any chan
 ## Understanding
 By availing of our Service or other services provided by us, you acknowledge that you have read this Refund Policy and agree to be bound by it.
 
-This Refund Policy is governed by Spanish law. Any legal disputes arising out of this Refund Policy will be resolved in a court of competent jurisdiction in Spain.
+This Refund Policy is governed by the United Arab Emirate's law. Any legal disputes arising out of this Refund Policy will be resolved in a court of competent jurisdiction in Dubai.
 
 If you do not agree with our Refund Policy or cannot comply with it, you are advised not to use the Service. Any exception or modification to this Refund Policy will be made at the sole discretion of BetterPic.
 

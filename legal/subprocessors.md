@@ -1,6 +1,6 @@
 ---
 title: Subprocessors
-description: 'BetterPic.io engages certain sub-processors, including third parties listed below and content delivery networks to assist in the provision of BetterPic.io Services.'
+description: 'BetterPic engages certain sub-processors, including third parties listed below and content delivery networks to assist in the provision of BetterPic.io Services.'
 category: Legal Document
 updated: 2023-03-30
 ---
