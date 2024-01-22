@@ -15,7 +15,7 @@ Refunds requested within 7 days of purchase are eligible for a full refund if th
 In case of service outages, delays or disruptions, we will strive to fulfill your order as soon as possible. However, if we cannot fulfill your order within a reasonable timeframe, you may be eligible for a refund.
 
 If your refund request pertains to the quality of the results, please first ensure that you complied with the photo requirements that were outlined prior to initiating your order:
-- Upload a total of 13 chest-up photos and 2 half-body images.
+- Upload a total of 9-13 chest-up photos and 1-2 half-body images.
 - Vary the environment and your facial expressions across the photos.
 - Steer clear of wearing glasses or hats, using excessive makeup, or appearing nude in the photos. Avoid repetitive angles and poses.
 - Exclude photos where you are not looking at the camera, photos featuring multiple people, or those of poor quality. Avoid strange facial expressions and overly close shots.
