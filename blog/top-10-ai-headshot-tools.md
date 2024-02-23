@@ -1,5 +1,5 @@
 ---
-title: TOP 10 AI Headshot Tools
+title: Top 10 AI Headshot Tools
 category: Top
 description: Curation of the top 10 AI headshot tools. AI headshots are based on pictures you upload, made to look like professional headshots.
 readtime: 8
