@@ -65,35 +65,45 @@
     {
         "image": "https://images.pexels.com/photos/5480687/pexels-photo-5480687.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Model Headshots",
+        "meta": {
+            "title": "Model Headshots | Modelling Headshots Professional",
+            "description": "How to get professional model headshots and tips to make it high-quality. Get modelling headshot ideas starting from $35."
+        },
         "description": "Model headshots play a vital role in presenting a model's best image and showcasing their versatility in the competitive world of modeling. A professional headshot captures the essence and unique personality of a model, helping them build a strong portfolio, secure bookings, and make a lasting impression with agencies and clients alike. High-quality model headshots are essential for any aspiring or established model in the fashion and entertainment industries.",
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/3831080/pexels-photo-3831080.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "alt": "Model headshots impact",
                 "title": "The Impact of Professional Model Headshots",
                 "content": "Professional model headshots are much more than pretty pictures; they represent your brand in the highly competitive modeling industry. These headshots must capture your unique personality and versatility, setting you apart from the competition.<br><br>High-quality headshots should be visually impactful, demonstrating your ability to take direction and showcase a range of emotions and expressions. Investing in a professional headshot session can significantly increase your chances of being noticed and booked for modeling gigs.<br><br>Moreover, with services like BetterPic, getting stunning model headshots that stand out from the crowd has never been easier or more affordable."
             },
             {
                 "image": "https://images.pexels.com/photos/3812914/pexels-photo-3812914.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "alt": "Model headshot session",
                 "title": "Preparing for Your Model Headshot Session",
-                "content": "Proper preparation is key for a successful model headshot session. The first step is choosing an experienced photographer who understands the industry and knows how to capture your best angles and expressions.<br><br>Plan your wardrobe wisely, opting for neutral colors and simple styles that allow your natural beauty to take center stage. Remember, your headshot should be focused on your face and not your clothing. Consider hiring a professional makeup artist to create a clean, natural look that enhances your features.<br><br>Lastly, practice different poses and facial expressions in front of a mirror to feel confident and prepared on the day of your shoot."
+                "content": "Proper preparation is key for a successful modelling headshot session. The first step is choosing an experienced photographer who understands the industry and knows how to capture your best angles and expressions.<br><br>Plan your wardrobe wisely, opting for neutral colors and simple styles that allow your natural beauty to take center stage. Remember, your headshot should be focused on your face and not your clothing. Consider hiring a professional makeup artist to create a clean, natural look that enhances your features.<br><br>Lastly, practice different poses and facial expressions in front of a mirror to feel confident and prepared on the day of your shoot."
             },
             {
                 "image": "https://images.pexels.com/photos/6974010/pexels-photo-6974010.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "alt": "Model headshot portfolio",
                 "title": "Building a Dynamic Model Headshot Portfolio",
                 "content": "A diverse portfolio is essential for every aspiring and established model. A single headshot is rarely enough to showcase your range and versatility. By including multiple headshots, you offer potential clients a broader view of your skills and experience.<br><br>A dynamic portfolio should include shots that demonstrate different expressions, moods, and styles while maintaining a cohesive and polished aesthetic. Including a mix of studio and outdoor headshots can showcase your adaptability and highlight your ability to work with various lighting and backgrounds.<br><br>By building a strong and varied portfolio, you increase your chances of being noticed by top agencies, scouts, and clients, helping you advance in the modeling industry."
             },
             {
                 "image": "https://images.pexels.com/photos/134469/pexels-photo-134469.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "alt": "Model headshots example photoshoot",
                 "title": "Tips for a Confident Photoshoot",
                 "content": "When preparing for your photoshoot, focus on feeling confident and comfortable in front of the camera. Confidence can make a significant difference in the quality of your headshots, so practice positive affirmations and visualize success before the shoot.<br><br>Choose clothing that complements your style and the industry you're targeting. Simple and classic outfits are usually a safe choice, but don't be afraid to add a touch of your personality through accessories.<br><br>During the photoshoot, communicate openly with your photographer. Let them know if there are specific looks or expressions you want to capture. Collaboration is key to achieving headshots that truly represent you as a model."
             },
             {
                 "image": "https://images.pexels.com/photos/4467687/pexels-photo-4467687.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "alt": "Modelling headshots near me presence",
                 "title": "Utilizing Headshots for Online Presence",
                 "content": "In today's digital age, your online presence is just as important as your physical portfolio. Use your model headshots across your social media platforms, personal website, and online portfolios.<br><br>Ensure that your headshots are of high quality and resize them appropriately for each platform to maintain a professional appearance. Consistency in your online images will reinforce your personal brand and make it easier for potential clients and agencies to recognize you.<br><br>Engage with your audience by sharing your journey as a model and offering insights into the industry. This authentic approach can help you build a dedicated following and attract new opportunities."
             },
             {
                 "image": "https://images.pexels.com/photos/5198239/pexels-photo-5198239.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "alt": "Professional model headshots emotion",
                 "title": "The Power of Emotion in Headshots",
                 "content": "Emotions play a crucial role in headshots as they showcase your ability to convey different feelings and characters. Practice displaying a range of emotions during your photoshoot, including happiness, confidence, and vulnerability.<br><br>Remember that a genuine smile can go a long way in creating a welcoming and approachable image. However, don't be afraid to explore serious or contemplative expressions to showcase your versatility as a model.<br><br>Avoid overacting or forcing expressions; instead, let the emotions flow naturally. Your photographer will be skilled in capturing these moments and ensuring your headshots are authentic and engaging."
             }
