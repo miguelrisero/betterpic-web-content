@@ -64,7 +64,7 @@ As an illustration:
 
 - Use your distinctive headshot to make engaging videos that showcase your knowledge of engineering systems, products, and processes while also showcasing your projects, accomplishments, and skills. It can also help you grow and keep your audience, attract likes and subscribers, and monetize your videos.
 
-![professional engineer headshot of a white guy with blue clothes](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-94.jpg&w=768&q=70)
+![professional engineer headshot of a white guy with blue clothes](/assets/blog/media/model-examples-1/betterpic-generated-headshot-94.jpg)
 
 ## Benefit 3: Increase your Confidence and Self-Esteem
 You must be extremely self-assured and confident to be an engineer. It's important to have confidence in your own potential, skills, and abilities. Additionally, you must have confidence in your appearance, image, and self-worth. You can achieve these goals by having a self-assured headshot.

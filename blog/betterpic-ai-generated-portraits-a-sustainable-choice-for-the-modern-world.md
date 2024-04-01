@@ -34,7 +34,7 @@ BetterPic's digital-first approach eliminates the need for physical prints, mini
 
 With BetterPic's online platform, users can access AI-generated portraits from anywhere, reducing the need for travel. This accessibility minimizes transportation-related emissions, contributing to a greener approach. It also adds convenience, allowing users to obtain professional portraits without the need for physical travel.
 
-![professional headshot of a woman made with BetterPic AI](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-509.jpg&w=768&q=70)
+![professional headshot of a woman made with BetterPic AI](/assets/blog/media/model-examples-1/betterpic-generated-headshot-509.jpg)
 
 ## BetterPic's Commitment to Sustainability
 
@@ -64,7 +64,7 @@ Embracing BetterPic's sustainable services enhances brand image. It sends a mess
 
 BetterPic's sustainable practices not only benefit the environment but also offer cost savings. By reducing energy consumption and waste, users can enjoy professional portraits at a fraction of the traditional cost. These savings reflect the efficiency and innovation of BetterPic's services.
 
-![professional headshot of a man with suit made with BetterPic AI](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-14.jpg&w=768&q=70)
+![professional headshot of a man with suit made with BetterPic AI](/assets/blog/media/model-examples-1/betterpic-generated-headshot-14.jpg)
 
 ## Practical Guide to Using BetterPic's Sustainable Services
 

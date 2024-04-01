@@ -22,7 +22,7 @@ The evolution of headshot photography began with the digital revolution. With th
 ### Present - AI's Role and Transformation of the Industry
 Currently, AI is at the forefront of this transformation, having an impact on every aspect of headshot photography, including how images are captured, edited, sorted, and cataloged. Professional headshot photography has become more widely available to everyone, anywhere, at any time, thanks to the development of AI technology.
 
-![professional headshot of a white woman with blue suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-1.jpg&w=768&q=70)
+![professional headshot of a white woman with blue suit](/assets/blog/media/model-examples-1/betterpic-generated-headshot-1.jpg)
 
 ## Understanding AI and Its Applications in Photography
 
@@ -39,7 +39,7 @@ The AI professional headshot services are revolutionizing how we create corporat
 
 In the following response, we will go over how AI is specifically applied to professional headshots, including case studies of successful AI applications in professional headshots as well as the advantages and drawbacks of doing so.
 
-![professional headshot of a white girl with black suit and glasses](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/type1/headshot_10.jpg&w=768&q=70)
+![professional headshot of a white girl with black suit and glasses](/assets/blog/media/type1/headshot_10.jpg)
 
 ## AI in Professional Headshots - A Deep Dive
 

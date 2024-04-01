@@ -28,7 +28,7 @@ While traditional photography relies on human expertise and can be inconsistent,
 ### Accessibility and Convenience
 Anyone with an internet connection can access BetterPic's platform, making professional business portraits available to a wider audience. Easily generating professional headshots from your home or office is an attractive option for busy professionals.
 
-![a professional ai headshot of an asian woman with white blazer](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-455.jpg&w=768&q=70)
+![a professional ai headshot of an asian woman with white blazer](/assets/blog/media/model-examples-1/betterpic-generated-headshot-455.jpg)
 
 ## Building a Personal Brand with BetterPic
 
@@ -51,7 +51,7 @@ BetterPic prioritizes safety and privacy, ensuring that your data is handled wit
 
 ### Future Developments and Innovations
 
-![a professional ai headshot of arab woman](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-208.jpg&w=768&q=70)
+![a professional ai headshot of arab woman](/assets/blog/media/model-examples-1/betterpic-generated-headshot-208.jpg)
 
 ## A Guide to Using BetterPic
 

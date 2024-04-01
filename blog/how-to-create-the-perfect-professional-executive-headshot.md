@@ -34,7 +34,7 @@ The benefits and drawbacks of each choice are listed below:.
 
 - **BetterPic:** A headshot from BetterPic can give you the best of both worlds: the aesthetics of a studio headshot and the ease of a phone headshot. Create stunning portraits, profile pictures, and PFPs from any image you upload using BetterPic's AI-generated professional headshots service. To make your headshot more suitable for your needs and preferences, you can select from a variety of styles, backgrounds, and filters. BetterPic is quick, simple, and practical. No pricey photo shoots or difficult editing software is required. Simply upload your photo, make your selections, and get your headshot in a matter of minutes. Additionally inexpensive and adaptable, BetterPic. Depending on your goals and budget, you can select from a variety of plans and packages. Additionally, you are free to download, distribute, and print your headshots as often as you like.
 
-![executive headshot with grey sui](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-158.jpg&w=768&q=70)
+![executive headshot with grey sui](/assets/blog/media/model-examples-1/betterpic-generated-headshot-158.jpg)
 
 ## Try BetterPic Executive Headshot Service
 Try BetterPic's AI-generated professional headshots service if you want to upgrade your headshot. It's ideal for executives who want to improve the perception of their personal brands through beautiful portraits, profile pictures, and pfps.

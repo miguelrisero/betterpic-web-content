@@ -41,7 +41,7 @@ Women who want to demonstrate their originality, flair, and creativity in their 
 
 Here is an asian businesswoman headshot example created with BetterPic:
 
-![asian business woman headshot with white suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-455.jpg&w=768&q=70)
+![asian business woman headshot with white suit](/assets/blog/media/model-examples-1/betterpic-generated-headshot-455.jpg)
 
 As you can see, the women's personalities and aspirations are expressed and impressed in these headshots. The formal tone gives off an authoritative and professional vibe. The informal appearance gives off an approachable and welcoming vibe. A creative and original impression is produced by the creative style.
 
@@ -67,7 +67,7 @@ Necklaces with low or high necklines and various headshot poses, such as chains,
 
 Any outfit and professional headshot style can look good with glasses, including those with frames, lenses, or sunglasses. Your eyes and face can benefit from their added style and personality.
 
-![woman headshot with blue shirt](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-168.jpg&w=768&q=70)
+![woman headshot with blue shirt](/assets/blog/media/model-examples-1/betterpic-generated-headshot-168.jpg)
 
 ## Tip Nº4: Choose a Corporate Background that Creates a Contrast and Context
 For your headshot, the background can provide contrast and context without drawing attention away from your face.

@@ -54,15 +54,15 @@ These examples of professional female headshots can serve as a source of inspira
 
 A traditional power suit in a muted hue like navy blue, charcoal gray, or plain black. It is appropriate for any industry and any occasion to wear this classic and elegant look. A statement necklace or a bright blouse can add contrast and interest to your outfit.
 
-![female headshot with pastels clothes](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-378.jpg&w=768&q=70)
+![female headshot with pastels clothes](/assets/blog/media/model-examples-1/betterpic-generated-headshot-378.jpg)
 
 A lightweight sweater and a blazer in contrasting hues. Even though it's comfortable and casual, this appearance is still polished and professional. Such as pastels, earth tones, or jewel tones, you can select hues that go with your personality and mood.
 
-![indian female headshot with red blazer](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-370.jpg&w=768&q=70)
+![indian female headshot with red blazer](/assets/blog/media/model-examples-1/betterpic-generated-headshot-370.jpg)
 
 A collared shirt and a necktie or bandana. This is a creative and entertaining style that gives your headshot some personality and texture. You can choose a necktie or bandana that contrasts with your shirt's color or matches it for a more striking appearance.
 
-![female headshot with white shirt](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-178.jpg&w=768&q=70)
+![female headshot with white shirt](/assets/blog/media/model-examples-1/betterpic-generated-headshot-178.jpg)
 
 These are merely a few illustrations of appropriate female headshot attire. To create a truly individual look, you can mix and match various accessories and hues. Wearing something that you feel comfortable and confident in is crucial.
 

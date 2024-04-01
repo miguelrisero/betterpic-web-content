@@ -44,7 +44,7 @@ Users who have profile photos get up to 21 times more views on their pages than 
 
 Having a professional headshot demonstrates your concern for your career and personal brand. It demonstrates your seriousness, credibility, and reliability. It also enables you to stand out from the crowd and highlight your distinctive qualities and personality.
 
-![woman linkedin headshot with white blazer](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-406.jpg&w=768&q=70)
+![woman linkedin headshot with white blazer](/assets/blog/media/model-examples-1/betterpic-generated-headshot-406.jpg)
 
 ## What Size Should a LinkedIn Headshot Be
 The size and quality of your headshot should be your last priority. Make sure that on any screen or device, your headshot appears crisp, clear, and professional.

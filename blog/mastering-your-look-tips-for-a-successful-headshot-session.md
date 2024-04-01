@@ -52,7 +52,7 @@ As an illustration:
 
 - A subtle, enigmatic, and alluring look can be created with a looking away pose and expression. You can go in a direction that exhibits your creativity, thoughtfulness, or emotion.
 
-![professional headshot of black woman with blue shirt](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-613.jpg&w=768&q=70)
+![professional headshot of black woman with blue shirt](/assets/blog/media/model-examples-1/betterpic-generated-headshot-613.jpg)
 
 ## Tip 4: Enhance your features with filters and effects
 The caliber, attractiveness, and clarity of your headshot can all be enhanced by filters and effects. They can also bring out or conceal certain features of your appearance. For example:

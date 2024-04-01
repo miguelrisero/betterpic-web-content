@@ -36,7 +36,7 @@ Try out various head movements, tilts, and angles. To add some movement and vari
 
 - Only lightly and sparingly edit your headshot. Any blemishes, redness, or stray hairs that might diminish your appearance can be removed. Additionally, you can eliminate any wrinkles, dark circles, or shadows that could make you appear older or tired. Don't, however, overdo the retouching. Your natural features, expressions, and personality should all remain intact.
 
-![male model headshot with blue suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-472.jpg&w=768&q=70)
+![male model headshot with blue suit](/assets/blog/media/model-examples-1/betterpic-generated-headshot-472.jpg)
 
 ## How to Use Your Male Portrait Effectively for Your Modeling Career
 Once your male headshot is prepared, you should make good use of it in your modeling career. To ensure that your headshot reaches the right audience, highlights your best traits, and aids in your ability to secure more gigs, make sure it meets these criteria.

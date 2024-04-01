@@ -52,7 +52,7 @@ The third suggestion for picking the best headshot background for your personal 
 
 - If you have a quirky and fun sense of style, you might want to go with an abstract or pattern background for your headshot, which gives the image a quirky, creative, and fun feel. These designs, such as stars, hearts, music notes, etc., can also express your personality and field of work.
 
-![professional headshot of black woman with black shirt](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-266.jpg&w=768&q=70)
+![professional headshot of black woman with black shirt](/assets/blog/media/model-examples-1/betterpic-generated-headshot-266.jpg)
 
 ## Tip 4: Opt for a High resolution Professional Background and Quality Image
 A high resolution and high-quality image should be used as your corporate headshot background, which is the fourth piece of advice for doing so. The clarity and attractiveness of your headshot can be impacted by the resolution and background quality.

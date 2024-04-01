@@ -48,7 +48,7 @@ Travel is an additional cost, and in some European countries, you have to accoun
 
 London is generally more expensive, while Eastern European countries like Poland offer cheaper rates for headshot photography.
 
-![how much ai headshot cost](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-405.jpg&w=768&q=70)
+![how much ai headshot cost](/assets/blog/media/model-examples-1/betterpic-generated-headshot-405.jpg)
 
 ## The Cost of AI Headshot Providers
 
@@ -82,7 +82,7 @@ Some studios charge additional fees for extra retouching or revisions. Similarly
 
 Need a last-minute booking? Professional studios may charge an urgency fee, which is something you won't encounter with AI providers, given their instant service.
 
-![ai headshot pricing](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-41.jpg&w=768&q=70)
+![ai headshot pricing](/assets/blog/media/model-examples-1/betterpic-generated-headshot-41.jpg)
 
 ## Quality Comparison
 

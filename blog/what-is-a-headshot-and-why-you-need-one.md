@@ -66,7 +66,7 @@ Here are some pointers for taking your own headshot:
 
 - Utilize a photo editing app to crop, enhance, and adjust your photos on your phone or tablet. You can also use an app that allows you to add filters, effects, or modifications based on your preferences and objectives.
 
-![business headshot of a woman with orange shirt](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-197.jpg&w=768&q=70)
+![business headshot of a woman with orange shirt](/assets/blog/media/model-examples-1/betterpic-generated-headshot-197.jpg)
 
 ## What to Wear for a Headshot
 The way you are dressed matters a lot when taking a professional headshot. It reflects your personality, business, and fashion sense. Additionally, it influences how others see you and interact with you.

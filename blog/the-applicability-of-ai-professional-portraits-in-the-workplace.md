@@ -29,7 +29,7 @@ Over conventional headshots, AI-portraits have a number of advantages, including
 
 - **Increasing engagement and trust**: Putting a face to your online contacts' names can help you establish rapport and earn their trust. You can express your emotions and personality more effectively than with a simple text or logo by using a realistic and appealing AI-business portrait. Additionally, it can assist you in making a good first impression and developing a deeper connection with potential clients, customers, partners, or employers.
 
-![professional ai portrait of a white woman whit white suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-13.jpg&w=768&q=70)
+![professional ai portrait of a white woman whit white suit](/assets/blog/media/model-examples-1/betterpic-generated-headshot-13.jpg)
 
 ## Opportunities and Possibilities of AI-Generated Headshots
 AI-based professional portraits are not only useful but also innovative and exciting. For you and your professional aspirations, they present fresh possibilities. These are some of them:

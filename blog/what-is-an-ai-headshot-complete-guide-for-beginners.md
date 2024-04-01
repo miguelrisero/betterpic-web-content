@@ -30,7 +30,7 @@ A subset of neural networks, GANs are particularly good at generating new conten
 
 The neural networks and GANs rely on machine learning algorithms that help the AI learn from numerous data sets to produce better and more realistic images over time.
 
-![ai headshots](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-505.jpg&w=768&q=70)
+![ai headshots](/assets/blog/media/model-examples-1/betterpic-generated-headshot-505.jpg)
 
 ## Advantages of a Headshot Maker powered by AI
 
@@ -50,7 +50,7 @@ AI-generated headshots providers like BetterPic offer an opportunity to represen
 
 With the best AI headshot generator, you can have a professional-looking image in minutes, saving you both time and the hassle of scheduling a photo session.
 
-![professional ai headshot](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-30.jpg&w=768&q=70)
+![professional ai headshot](/assets/blog/media/model-examples-1/betterpic-generated-headshot-30.jpg)
 
 ## How to Get Your Own Profile Headshot
 

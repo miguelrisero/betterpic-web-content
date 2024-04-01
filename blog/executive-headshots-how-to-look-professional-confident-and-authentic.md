@@ -35,7 +35,7 @@ To help you with that, consider these hints:
 
 Don't worry if you're unsure of what to wear or how to present yourself in your headshot. Without the hassle of changing clothes or hiring a stylist, BetterPic can assist you in creating a stunning headshot in any attire you desire. Simply upload a photo of yourself wearing your everyday clothes, and our AI-photographer will take care of the rest. Additionally, you can alter your headshot to fit your personal brand by adding various backgrounds, filters, and effects.
 
-![executive headshot of a man with blue suit](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-483.jpg&w=768&q=70)
+![executive headshot of a man with blue suit](/assets/blog/media/model-examples-1/betterpic-generated-headshot-483.jpg)
 
 ## How to Pose for your Executive Headshot
 Posing for the camera during the photo shoot is the second step in creating a great executive headshot. This entails determining the ideal headshot angle, expression, and posture based on your facial features, body type, and personality. Here are some pointers on how to go about doing that:

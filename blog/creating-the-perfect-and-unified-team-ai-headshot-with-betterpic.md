@@ -34,7 +34,7 @@ With BetterPic, you can customize headshots to reflect different team roles. Whe
 
 Consistency is key in corporate branding, and BetterPic's AI technology ensures that team headshots are uniform across different images. This consistency enhances the professional appearance of the team, reinforcing the company's image and values.
 
-![professional ai headshot of an old woman](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-108.jpg&w=768&q=70)
+![professional ai headshot of an old woman](/assets/blog/media/model-examples-1/betterpic-generated-headshot-108.jpg)
 
 ## A Step-by-Step Guide to Creating Team Headshots with BetterPic
 
@@ -64,7 +64,7 @@ Whether you have a small team or a large corporation, BetterPic's platform is fl
 
 BetterPic guarantees quality assurance, providing professional appearance in all team headshots. The AI-driven process ensures that each headshot meets high standards, reflecting your team's professionalism and commitment to excellence.
 
-![professional headshot of a business woman](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-166.jpg&w=768&q=70)
+![professional headshot of a business woman](/assets/blog/media/model-examples-1/betterpic-generated-headshot-166.jpg)
 
 ## Tips for Integrating AI Headshots into Your Team's Branding
 

@@ -39,7 +39,7 @@ Flyers are tactile, eye-catching promotional tools, especially for local busines
 - Keep the image proportionate; it should complement, not dominate, the flyer's other elements.
 - Consider integrating your brand colors with the headshot for a cohesive design.
 
-![headshot use cases](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-5.jpg&w=768&q=70)
+![headshot use cases](/assets/blog/media/model-examples-1/betterpic-generated-headshot-5.jpg)
 
 ## Business Card
 
@@ -89,7 +89,7 @@ An email signature is akin to a digital handshake, concluding communications on 
 - Position it appropriately, generally next to your name or designation.
 - Always test-send emails to ensure the signature displays correctly across various devices.
 
-![business use cases](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-450.jpg&w=768&q=70)
+![business use cases](/assets/blog/media/model-examples-1/betterpic-generated-headshot-450.jpg)
 
 ## Personal Websites and Digital Portfolios
 

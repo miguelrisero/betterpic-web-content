@@ -30,7 +30,7 @@ To demonstrate your range and versatility, you can also try different facial exp
 
 Avoid forced or fake smiles. They'll give you a fake or awkward look. Think of something that makes you happy or laugh instead of saying cheese.
 
-![realtor headshot wearing grey blazer](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-551.jpg&w=768&q=70)
+![realtor headshot wearing grey blazer](/assets/blog/media/model-examples-1/betterpic-generated-headshot-551.jpg)
 
 ## What Color Background Choose for Realtor Headshot
 The background should be taken into account third. You should pick a background that goes with your brand, target audience, and message. Additionally, you want to pick a background that is uncluttered, simple, and clean.

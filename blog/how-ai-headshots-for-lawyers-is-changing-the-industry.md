@@ -43,7 +43,7 @@ You can increase your online visibility and project a polished image across all 
 
 ### BetterPic example of AI portrait for lawyers
 
-![professional ai woman lawyer portrait whit formal clothes](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-460.jpg&w=768&q=70)
+![professional ai woman lawyer portrait whit formal clothes](/assets/blog/media/model-examples-1/betterpic-generated-headshot-460.jpg)
 
 With BetterPic AI headshot, you can create the ideal headshot for your market and niche. You can test out various possibilities to see which one suits you the best.
 
@@ -66,7 +66,7 @@ Additionally, it can assist you in making a long-lasting impression on your clie
 
 Enhance client relationships and boost conversions by using AI headshot for lawyers strategically in your communication and [marketing strategies](https://saas-space.com/5-ways-to-use-ai-for-marketing-strategies/). Additionally, you can develop devoted customers who will recommend you to others.
 
-![professional ai man lawyer portrait whit formal clothes](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-483.jpg&w=768&q=70)
+![professional ai man lawyer portrait whit formal clothes](/assets/blog/media/model-examples-1/betterpic-generated-headshot-483.jpg)
 
 ## Conclusion
 With the aid of the ground-breaking technology known as AI headshot, lawyers can quickly and conveniently create consistent and professional headshots without ever leaving their homes or offices.

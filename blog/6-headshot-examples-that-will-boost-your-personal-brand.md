@@ -30,7 +30,7 @@ The most typical and widely used style of professional headshot is the tradition
 
 The following is an illustration of a traditional business headshot made with BetterPic:
 
-![business headshot of a woman with blue shirt](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-258.jpg&w=768&q=70)
+![business headshot of a woman with blue shirt](/assets/blog/media/model-examples-1/betterpic-generated-headshot-258.jpg)
 
 This headshot meets the standards for a traditional business headshot, as you can see. Its background is a plain gray color, which takes away all background noise and puts the focus on the face. It has a dapper suit that conveys a sense of style and class. Warmth and friendliness are conveyed by its smile.
 
@@ -39,7 +39,7 @@ For actors, the actor headshot is the most crucial kind of headshot. It has a co
 
 Here is an actor headshot made with BetterPic:
 
-![woman actor headshot with blue shirt](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-611.jpg&w=768&q=70)
+![woman actor headshot with blue shirt](/assets/blog/media/model-examples-1/betterpic-generated-headshot-611.jpg)
 
 This headshot complies with the requirements for an actor headshot, as you can see. It has a colorful background that subtly contrasts with the skin tone. It has light makeup that enhances the natural beauty without camouflaging the features. The eyes can shine and express emotion because of the relaxed expression.
 
@@ -48,7 +48,7 @@ The most glitzy type of headshot for models is the model headshot. It has an eye
 
 The following is an example of a model headshot made with BetterPic:
 
-![woman model headshot with white clothes](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-496.jpg&w=768&q=70)
+![woman model headshot with white clothes](/assets/blog/media/model-examples-1/betterpic-generated-headshot-496.jpg)
 
 As you can see, this headshot perfectly encapsulates the essence of a model headshot. The brick background gives it a strong contrast. It has a striking makeup that highlights the features and adds color. It has an attitude- and style-filled side pose.
 
@@ -57,7 +57,7 @@ The most important type of headshot for professionals on LinkedIn is the LinkedI
 
 An example of a LinkedIn headshot made with BetterPic is shown here:
 
-![LinkedIn man headshot with dark clothes](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-96.jpg&w=768&q=70)
+![LinkedIn man headshot with dark clothes](/assets/blog/media/model-examples-1/betterpic-generated-headshot-96.jpg)
 
 This headshot satisfies the criteria for a LinkedIn headshot, as you can see. It has an office background, which implies a workplace and context. It is dressed in business casual, which strikes a balance between formal and informal. A friendly and upbeat smile can be seen on it.
 
@@ -66,7 +66,7 @@ The most empowering kind of woman headshot are those of themselves. They have ae
 
 Here are a few illustrations of female headshots made with BetterPic.
 
-![female headshot with white clothes](https://www.betterpic.io/_vercel/image?url=/assets/blog/media/model-examples-1/betterpic-generated-headshot-451.jpg&w=768&q=70)
+![female headshot with white clothes](/assets/blog/media/model-examples-1/betterpic-generated-headshot-451.jpg)
 
 As you can see, these photographs highlight the strength and beauty of women. They have gentle lighting that gives off a cozy, organic glow. They are viewed from various angles that bring out their features and shapes. They wear various amounts of makeup that complement rather than overwhelm their appearance.
 
