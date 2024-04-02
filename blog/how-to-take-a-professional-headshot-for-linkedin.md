@@ -1,7 +1,7 @@
 ---
 title: 'How to Take a Professional Headshot for LinkedIn'
 category: AI Photos
-description: Learn how to take a professional headshot for LinkedIn with tips on attire, photographer selection, size, and common mistakes to avoid. Try it today and make a lasting impression!
+description: Learn how to take a professional headshot for LinkedIn with tips on attire, photographer selection, size, and common mistakes to avoid. Try it today.
 readtime: 6
 date: 2023-07-21
 cover: /assets/blog/<blog>/cover.jpg
