@@ -1,7 +1,7 @@
 ---
 title: 'Beyond LinkedIn: 7 Unique Places to Use Your Business Headshot'
 category: Use Cases
-description: Discover design tips and best practices for integrating headshots seamlessly into various platforms. Amplify your personal brand and create lasting impressions with the power of a well-placed headshot.
+description: Learn design tips for integrating business headshots on platforms to amplify your brand and make lasting impressions with well-placed headshots. Read more.
 readtime: 4
 date: 2023-08-28
 cover: /assets/blog/<blog>/cover.jpg
