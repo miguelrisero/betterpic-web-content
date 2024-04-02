@@ -1,7 +1,7 @@
 ---
 title: 'Professional Headshots in the Digital Age: The Role of AI'
 category: AI Photos
-description: Explore how AI is transforming professional headshots, discussing their value in the digital age and their role in conveying professionalism in our blog.
+description: Learn how entrepreneurs can create professional AI headshots with BetterPic in minutes, showcasing confidence, credibility, and spirit, in our blog post.
 readtime: 7
 date: 2023-06-12
 cover: /assets/blog/<blog>/cover.jpg
