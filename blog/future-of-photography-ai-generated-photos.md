@@ -1,7 +1,7 @@
 ---
-title: 'The Future of Photography: AI-Generated Professional Photos'
+title: 'Future of Photography: AI-Generated Professional Photos'
 category: Future
-description: Discover the intriguing world of AI art and how it affects photography. AI image generators enable anyone to produce beautiful, unique images, from captivating cityscapes to stunning portraits.
+description: Explore AI art's impact on photography, where AI generators offer the power to create unique, beautiful images, from cityscapes to portraits. Read more.
 readtime: 7
 date: 2023-06-27
 cover: /assets/blog/<blog>/cover.jpg
