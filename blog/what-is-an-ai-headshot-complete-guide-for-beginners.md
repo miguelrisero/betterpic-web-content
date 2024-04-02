@@ -1,7 +1,7 @@
 ---
 title: 'What is an AI Headshot? Complete Guide for Beginners'
 category: AI Photos
-description: Discover the complete guide to understanding AI headshots—what they are, how they're made, and how to use them professionally. Learn how AI-generated portraits are revolutionizing personal branding in the digital age.
+description: Discover AI generated headshots that can produce beautiful portraits, accurately reflecting your personality. No expensive equipment or photographer needed.
 readtime: 5
 date: 2023-09-01
 cover: /assets/blog/<blog>/cover.jpg
