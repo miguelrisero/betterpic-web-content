@@ -219,9 +219,6 @@ As AI becomes more woven into the fabric of our digital lives, the possibilities
 
 ![ai-professional-headshot-woman-example](/assets/blog/ai-generated-headshots/image3.jpg)
 
-
-Alt text: ai-professional-headshot-woman-example
-
 Alright, let's wrap this up and put a bow on it. We've been on quite the journey exploring the world of AI professional headshots and how they're shaking up the personal branding scene.
 
 It's clear that this tech isn't just a flash in the pan—it's got the potential to seriously revolutionize the way we think about and craft our professional images online.
