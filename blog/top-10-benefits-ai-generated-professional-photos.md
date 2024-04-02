@@ -1,7 +1,7 @@
 ---
 title: The Top 10 Benefits of AI-Generated Professional Photos
 category: AI Photos
-description: You'll explore the advantages of using an AI portrait generator for professional photos. Traditional portrait photography can be expensive and time-consuming, requiring specialized equipment and professional photographers.
+description: Explore the benefits of AI portrait generators for professional photos, offering an economical and efficient alternative to traditional photography.
 readtime: 7
 date: 2023-06-29
 cover: /assets/blog/<blog>/cover.jpg
