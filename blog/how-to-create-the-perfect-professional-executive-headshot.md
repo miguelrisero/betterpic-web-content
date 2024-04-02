@@ -1,7 +1,7 @@
 ---
 title: 'How to Create the Perfect Professional Executive Headshot'
 category: Professions
-description: Upgrade your professional image with an executive headshot. Learn how to dress, pose, and optimize your headshot. Try BetterPic's AI-generated headshots service!
+description: Upgrade your image with a professional executive headshot. Learn how to dress, pose, and optimize your headshot. Try AI generated headshot tools. Try Now.
 readtime: 6
 date: 2023-08-06
 cover: /assets/blog/<blog>/cover.jpg
