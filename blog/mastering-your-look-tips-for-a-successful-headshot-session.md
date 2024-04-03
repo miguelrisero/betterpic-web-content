@@ -1,5 +1,6 @@
 ---
 title: 'Mastering Your Look: 6 Tips for a Successful Headshot Session'
+metatitle: 'Tips for Successful Headshot Session | BetterPic'
 category: AI Photos
 description: Elevate your professional image with BetterPic's AI headshot generator. Customize backgrounds, styles, poses, expressions that reflect your brand.
 readtime: 8

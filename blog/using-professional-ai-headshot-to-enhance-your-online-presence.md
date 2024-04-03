@@ -1,5 +1,6 @@
 ---
 title: 'Using Professional AI-Headshot to Enhance Your Online Presence'
+metatitle: 'Professional AI headshot | Enhance Online Presence | BetterPic'
 category: Social Presence
 description: Explore the convenience and cost-effectiveness of AI-generated headshots for professional portraits, enhancing executive presence. Explore all benefits.
 readtime: 6

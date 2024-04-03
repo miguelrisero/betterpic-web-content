@@ -1,5 +1,6 @@
 ---
 title: Affiliates Policy
+metatitle: 'Affiliates Policy | Commissions | BetterPic'
 description: 'Affiliates Policy for BetterPic. This policy applies to our web page, web application and other associated third-parties in relation with affiliates.'
 category: Legal Document
 updated: 2023-09-05

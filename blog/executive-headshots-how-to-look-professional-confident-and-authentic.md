@@ -1,5 +1,6 @@
 ---
 title: 'Executive Headshots: How to Look Professional, Confident and Authentic'
+metatitle: 'Executive Headshots | Look Professional, Confident & Authentic'
 category: AI Photos
 description: Discover how to prepare, pose, & choose the best executive headshot. Learn about AI headshots, saving time & effort while getting stunning results.
 readtime: 6

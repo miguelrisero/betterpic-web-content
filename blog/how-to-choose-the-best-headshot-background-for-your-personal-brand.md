@@ -1,5 +1,6 @@
 ---
 title: 'How to Choose the Best Headshot Background for your Personal Brand'
+metatitle: 'Best headshot Background | Personal Brand | BetterPic'
 category: AI Photos
 description: Enhance your personal brand with the perfect business headshot background. Use AI headshot tool for high-quality results without the hassle of photoshoots.
 readtime: 5

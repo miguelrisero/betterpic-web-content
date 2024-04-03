@@ -1,5 +1,6 @@
 ---
 title: 'BetterPic AI-Generated Portraits: A Sustainable Choice for the Modern World'
+metatitle: 'AI Generated Portraits a Sustainable Choice | BetterPic'
 category: Sustainability
 description: Explore BetterPic's sustainable AI portraits. Learn about eco-friendly practices, benefits for businesses, and a guide to using BetterPic's services
 readtime: 5
