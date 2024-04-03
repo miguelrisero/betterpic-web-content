@@ -3,6 +3,9 @@
         "image": "https://images.pexels.com/photos/6153354/pexels-photo-6153354.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "AI Headshots",
         "description": "Harnessing the power of artificial intelligence, we're revolutionizing the creation and perception of professional images. These digitally generated headshots provide high-quality, realistic visuals for a variety of professional settings, offering a unique solution for businesses, individuals, and creatives who require professional images without the need for a physical photo shoot.",
+        "meta": {
+            "description": "Discover the power of AI headshots and how it provides high-quality, realistic visuals for a variety of professional settings. No need for a photo shoot."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/7787871/pexels-photo-7787871.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -127,6 +130,9 @@
         "image": "https://images.pexels.com/photos/2422588/pexels-photo-2422588.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Outdoor Headshots",
         "description": "Outdoor headshots have gained popularity in recent years due to their ability to harness the power of natural lighting and surrounding environments. A well-executed outdoor headshot can convey a sense of authenticity, making you appear approachable and professional while showcasing your unique personality. Professional outdoor headshots are essential in industries such as real estate, acting, corporate, and more, helping individuals create a powerful personal brand.",
+        "meta": {
+            "description": "A well-executed outdoor headshot can convey a sense of authenticity, making you appear approachable and professional while showcasing your unique personality"
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/4919371/pexels-photo-4919371.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -178,6 +184,9 @@
         "image": "https://images.pexels.com/photos/7680179/pexels-photo-7680179.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Professional Woman Headshot",
         "description": "A professional woman headshot plays a crucial role in presenting a powerful image in today's competitive workplace. Whether you are an entrepreneur, executive, or freelancer, an impactful headshot can portray your leadership, competence, and determination, helping you connect with potential clients and employers. A high-quality headshot is a vital tool to elevate your personal brand and showcase your unique personality as a successful professional woman.",
+        "meta": {
+            "description": "Professional woman headshots convey leadership and competence, enhancing personal branding in the competitive workplace. Elevate your personal brand today"
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/9416098/pexels-photo-9416098.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -225,6 +234,9 @@
         "image": "https://images.pexels.com/photos/3831080/pexels-photo-3831080.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Acting Headshots",
         "description": "An exceptional acting headshot can serve as a valuable tool for actors looking to secure auditions and showcase their unique talent. A well-executed headshot highlights your personality, versatility, and range as an actor, grabbing the attention of casting directors and elevating your chances of landing coveted roles. In the competitive world of acting, a professional headshot is a crucial investment in your career.",
+        "meta": {
+            "description": "Acting headshots, a valuable tool to secure auditions and showcase your unique talent. It highlights your versatility and range as an actor. Try now."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/3445219/pexels-photo-3445219.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -284,6 +296,9 @@
         "image": "https://images.pexels.com/photos/6326216/pexels-photo-6326216.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Male Headshots",
         "description": "A powerful male headshot can make a significant impact on your personal brand and career opportunities. Whether you are an actor, entrepreneur, or executive, a professional male headshot highlights your unique personality and strengths, helping you stand out in your industry. By investing in a high-quality headshot, you can create a lasting impression on potential clients, employers, and business partners.",
+        "meta": {
+            "description": "A powerful male headshot can make a significant impact on your personal brand and career opportunities. Whether you are an actor, entrepreneur, or executive."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/926390/pexels-photo-926390.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -347,6 +362,9 @@
         "image": "https://images.pexels.com/photos/7776140/pexels-photo-7776140.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Business Photoshoot",
         "description": "A business photoshoot showcases your professional team, company culture, and products or services, creating a lasting impression on potential clients and customers. High-quality, engaging business photos can reinforce your brand image, demonstrate credibility, and help you connect with your target audience. By investing in a professional business photoshoot, you can elevate your company's presence and position yourself as a leader in your industry.",
+        "meta": {
+            "description": "A business photoshoot showcases your professional team, company culture, & products/services, creating a lasting impression on potential clients & customers."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -398,6 +416,9 @@
         "image": "https://images.pexels.com/photos/17104841/pexels-photo-17104841.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Commercial Headshots",
         "description": "Commercial headshots play a significant role in the advertising and entertainment industries, showcasing an individual's ability to portray relatable, approachable characters. Presenting a captivating commercial headshot can secure auditions, catch the attention of casting directors and clients, and elevate career opportunities. A high-quality headshot is essential for actors, models, and public personalities looking to break into the competitive world of commercials.",
+        "meta": {
+            "description": "Commercial headshots are key in ads and entertainment, showing relatability & securing clients. Essential to entering the competitive commercial sector."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/17104841/pexels-photo-17104841.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -449,6 +470,9 @@
         "image": "https://images.pexels.com/photos/3810792/pexels-photo-3810792.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Corporate Headshots",
         "description": "Corporate headshots are essential for presenting a professional image and building a strong personal brand in today's competitive business landscape. A high-quality headshot highlights your leadership, competence, and determination, helping you forge connections with potential clients, employers, and colleagues. In the corporate world, an exceptional headshot is an invaluable tool for establishing your presence and showcasing your unique identity.",
+        "meta": {
+            "description": "Discover how a corporate headshot highlights your leadership, competence, and helps you forge connections with potential clients, employers, & colleagues."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/8871884/pexels-photo-8871884.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -512,6 +536,9 @@
         "image": "https://images.pexels.com/photos/7736041/pexels-photo-7736041.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Real Estate Agent Headshots",
         "description": "A top-notch real estate agent headshot is essential for showcasing your professionalism and expertise in the competitive world of property sales. A high-quality headshot instantly establishes trust and credibility, helping you to connect with potential clients and generate business. In an industry where first impressions matter, investing in a professional headshot can give you the edge that sets you apart from the competition.",
+        "meta": {
+            "description": "In an industry where first impressions matter, a real estate agent headshot helps showcase professionalism & expertise in the world of property sales."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/7599735/pexels-photo-7599735.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -575,6 +602,9 @@
         "image": "https://images.pexels.com/photos/4483095/pexels-photo-4483095.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Artist Headshot",
         "description": "An artist headshot is an essential tool for showcasing your unique talents and personal brand in a creative and competitive industry. A well-executed headshot highlights your individuality, conveys your artistic style, and helps you connect with potential clients, galleries, and collaborators. As an artist, investing in a professional headshot can give you the edge you need to succeed and stand out in your field.",
+        "meta": {
+            "description": "Discover how an artist headshot showcases talents & brand, highlighting individuality & artistic style, crucial for connecting with clients & standing out."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/7014262/pexels-photo-7014262.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -634,6 +664,9 @@
         "image": "https://images.pexels.com/photos/159778/books-reading-series-narnia-159778.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Author Headshots",
         "description": "A professional author headshot is vital to presenting a credible image and connecting with readers and publishers. A high-quality headshot showcases your personality and conveys your unique writing style, helping you stand out in the competitive world of publishing. In an industry where first impressions are crucial, investing in a professional headshot can make all the difference.",
+        "meta": {
+            "description": "A professional author headshot showcases your personality and unique writing style, crucial for connecting with readers and standing out in publishing."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/6274836/pexels-photo-6274836.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -688,6 +721,9 @@
         "image": "https://images.pexels.com/photos/8460159/pexels-photo-8460159.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Doctor Headshot",
         "description": "A polished doctor headshot is crucial to building a strong professional reputation, inspiring confidence and trust in your patients and colleagues. A high-quality headshot communicates your commitment to compassionate care and medical expertise, distinguishing you as a leader in your field. In today's competitive healthcare landscape, a captivating headshot is a vital marketing tool for physicians.",
+        "meta": {
+            "description": "Learn how a doctor's headshot builds reputation, trust, & communicates care and expertise, distinguishing you in healthcare as a vital marketing tool."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/1170979/pexels-photo-1170979.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -738,6 +774,9 @@
         "image": "https://images.pexels.com/photos/12495570/pexels-photo-12495570.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Fitness Headshots",
         "description": "An exceptional fitness headshot is essential for personal trainers, fitness coaches, and gym instructors looking to showcase their expertise and passion for health and wellness. High-quality fitness headshots not only display your physical prowess, but they also establish your professional image, build credibility, and attract clients. By investing in a professional fitness headshot, you pave the way for new opportunities and success in the fitness industry.",
+        "meta": {
+            "description": "Discover how Fitness headshots showcase trainers' expertise and passion, establishing a professional image, credibility, & attracting clients for success."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/14737311/pexels-photo-14737311.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -793,6 +832,9 @@
         "image": "https://images.pexels.com/photos/17056584/pexels-photo-17056584.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Makeup Artist Headshots",
         "description": "An exceptional makeup artist headshot is pivotal for showcasing your unique talents and personal brand in the beauty industry. A captivating headshot not only highlights your creative skills but also helps you connect with potential clients, photographers, and collaborators. As a makeup artist, investing in a professional headshot that reflects both your creative vision and technical abilities is essential for achieving success in this competitive field.",
+        "meta": {
+            "description": "Discover how makeup artist headshots highlight creativity and skills, essential for connecting with clients and collaborators in the beauty industry."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/10330183/pexels-photo-10330183.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -848,6 +890,10 @@
         "image": "https://images.pexels.com/photos/6538438/pexels-photo-6538438.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Lawyer Headshots",
         "description": "For legal professionals, a powerful lawyer headshot is crucial to establishing trust, communicating expertise, and generating leads. A high-quality headshot not only highlights your professionalism and commitment to your clients, but it also plays a vital role in creating and maintaining your personal brand. In the competitive legal industry, a compelling headshot can set you apart from your competitors and attract new business.",
+        "meta": {
+            "title": "AI headshots for lawyers | BetterPic",
+            "description": "For legal professionals, powerful lawyer headshots is crucial to establishing trust, communicating expertise, and generating leads. Get AI Lawyer Headshots"
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/3760514/pexels-photo-3760514.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -903,6 +949,9 @@
         "image": "https://images.pexels.com/photos/17182268/pexels-photo-17182268.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Musician Headshots",
         "description": "For musicians, a striking headshot is key to promoting your work, connecting with your audience, and establishing your brand. A quality headshot not only highlights your dedication to your craft but also portrays your unique personality and artistic identity. In the competitive music industry, a captivating headshot can set you apart from other artists and contribute to your overall success.",
+        "meta": {
+            "description": "Discover how musician headshot promotes work, connects with audiences, and establishes brand, setting you apart in the music industry. Read more."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/6274836/pexels-photo-6274836.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -954,6 +1003,9 @@
         "image": "https://images.pexels.com/photos/5594336/pexels-photo-5594336.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Office Headshots",
         "description": "Office headshots are essential for professionals looking to represent themselves in the best possible light. Not only do they showcase a polished and professional image for their careers, they also help to create a strong personal brand connecting with potential clients and employers. Let's dive into the importance of office headshots and how you can make the most of yours.",
+        "meta": {
+            "description": "Discover how office headshots are crucial for showcasing professionalism and building a personal brand, vital for connecting with clients and employers."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/2381069/pexels-photo-2381069.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1000,6 +1052,9 @@
         "image": "https://images.pexels.com/photos/17591497/pexels-photo-17591497.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Pageant Headshots",
         "description": "Pageant headshots are critical in the world of beauty pageants as they are often the first point of contact between a contestant and the judges. Such headshots should showcase a perfect blend of beauty, elegance, and poise, ensuring that contestants make a lasting impression. Discover how to make the most of your pageant headshots and enhance your chances of success.",
+        "meta": {
+            "description": "Pageant headshots, blending beauty, elegance, and poise, are crucial for making a first impression on judges. Learn to maximize their impact for success."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/14616892/pexels-photo-14616892.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1051,6 +1106,9 @@
         "image": "https://images.pexels.com/photos/5069498/pexels-photo-5069498.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Therapist Headshots",
         "description": "Therapist headshots play a pivotal role in establishing trust and rapport between a therapist and their potential clients. An impeccable headshot portrays professionalism, warmth, and approachability, highlighting the therapist as a compassionate and reliable professional. Learn more about the significance of therapist headshots and how to capture the perfect image.",
+        "meta": {
+            "description": "Discover how therapist headshots foster trust and rapport, showing professionalism, warmth, and approachability. Discover how to capture them effectively."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/4101143/pexels-photo-4101143.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1102,6 +1160,9 @@
         "image": "https://images.pexels.com/photos/2363481/pexels-photo-2363481.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Business Card with Headshot",
         "description": "Adding a headshot to your business card is an effective way to create a lasting impression and foster meaningful connections with clients, partners, and potential employers. A well-crafted business card with a high-quality headshot enhances your personal brand, reflecting professionalism and credibility. Discover the benefits of including a headshot on your business card and capturing the ideal image.",
+        "meta": {
+            "description": "Incorporate a headshot on your business card to make memorable impressions and strengthen connections. It boosts your brand by showcasing professionalism."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/7820359/pexels-photo-7820359.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1153,6 +1214,9 @@
         "image": "https://images.pexels.com/photos/5717583/pexels-photo-5717583.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "CEO Headshots",
         "description": "In the business world, a CEO's headshot speaks volumes about their personality, leadership style, and overall image. A powerful and professional headshot is crucial for establishing credibility and authority while showcasing the CEO's unique character. Let's explore the importance of CEO headshots and how to create the perfect representation.",
+        "meta": {
+            "description": "Explore why a CEO headshots are crucial for establishing credibility and authority while showcasing the CEO's unique character, leadership, & overall image."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/8866809/pexels-photo-8866809.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1204,6 +1268,9 @@
         "image": "https://images.pexels.com/photos/6801867/pexels-photo-6801867.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Interior Design Headshots",
         "description": "In the realm of interior design, where visual aesthetics are paramount, a compelling headshot is vital for every designer's personal brand. A high-quality interior designer headshot communicates professionalism, creativity, and a clear vision of your design sensibilities. In this guide, we discuss the importance of an impactful, well-executed interior designer headshot and how to achieve it.",
+        "meta": {
+            "description": "Discover how top interior designer headshot boosts your brand by showing professionalism & creativity. Learn how to capture a compelling image in our guide."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/4207780/pexels-photo-4207780.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1251,6 +1318,9 @@
         "image": "https://images.pexels.com/photos/3760093/pexels-photo-3760093.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Political Headshots",
         "description": "An impactful political headshot is essential for politicians seeking to create a strong connection with their constituents. Your headshot should exude confidence, professionalism, and approachability while reflecting your political beliefs and values. Discover the significance of a polished political headshot and learn how to create the perfect image.",
+        "meta": {
+            "description": "Discover how a political headshot is essential for politicians seeking to create a strong connection with their constituents. Try it yourself now."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/4427430/pexels-photo-4427430.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1298,6 +1368,9 @@
         "image": "https://images.pexels.com/photos/5292234/pexels-photo-5292234.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Designer Headshot",
         "description": "For any creative professional, including designers, a captivating headshot is an essential tool for standing out from the competition and building a strong personal brand. An exceptional designer headshot communicates your unique artistic vision, creativity, and character. Explore the importance of a designer headshot and learn how to create one that leaves a lasting impression.",
+        "meta": {
+            "description": "Learn how designer headshots are crucial for showcasing artistic vision & creativity, helping you stand out & build your brand. Learn to create impact now."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1361,6 +1434,9 @@
         "image": "https://images.pexels.com/photos/6551111/pexels-photo-6551111.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Personal Trainer Headshots",
         "description": "For fitness professionals, a striking personal trainer headshot is an essential tool to convey expertise and dedication to potential clients. An engaging headshot can set you apart from the competition, creating a lasting impression that reflects your commitment to helping clients achieve their fitness goals. Discover the significance of personal trainer headshots and how to capture the perfect image.",
+        "meta": {
+            "description": "Learn how a personal trainer headshot conveys expertise and dedication, setting you apart and impressing potential clients. Learn how to capture it."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/6456205/pexels-photo-6456205.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1424,6 +1500,9 @@
         "image": "https://images.pexels.com/photos/3400560/pexels-photo-3400560.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Portfolio Headshots",
         "description": "Portfolio headshots are an indispensable component of any professional's career, regardless of industry. An exceptional headshot displays your unique personality, professionalism, and personal style, helping you create a lasting impression on potential employers and clients. Uncover the importance of high-quality portfolio headshots and their impact on your personal brand and career growth.",
+        "meta": {
+            "description": "Portfolio headshots displays your unique personality, professionalism, and style, helping you create a lasting impression on potential employers & clients."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/5668769/pexels-photo-5668769.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1487,6 +1566,9 @@
         "image": "https://images.pexels.com/photos/5649516/pexels-photo-5649516.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Professor Headshot",
         "description": "An excellent professor headshot is an invaluable resource for showcasing an educator's professionalism, expertise, and dedication to their field. A top-notch headshot not only sets you apart from your peers but also helps form stronger connections with students and colleagues alike. Delve into the importance of professor headshots and how to capture the perfect image.",
+        "meta": {
+            "description": "An excellent professor headshot sets you apart from your peers but also helps form stronger connections with students and colleagues alike. Look your best."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/6334771/pexels-photo-6334771.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1550,6 +1632,9 @@
         "image": "https://images.pexels.com/photos/17192885/pexels-photo-17192885.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Zoom Headshots",
         "description": "As remote work and virtual meetings continue to thrive in today's world, your Zoom headshots can have a significant impact on building professionalism and personal brands. An appealing and expertly composed headshot will convey your dedication to your job, benefiting your online presence during video conferences and virtual events. Explore the value of Zoom headshots and learn how to capture the perfect digital image.",
+        "meta": {
+            "description": "Discover how Zoom headshots boost professionalism and brand in remote work. Learn their value and how to capture the perfect digital image. Read more."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/17554909/pexels-photo-17554909.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1605,6 +1690,9 @@
         "image": "https://images.pexels.com/photos/684385/pexels-photo-684385.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "Financial Advisor Headshots",
         "description": "A high-quality financial advisor headshot is a vital asset in establishing trust and credibility with potential clients. An expertly captured image conveys your professionalism, expertise, and attentiveness, setting you apart from the competition. Learn more about the benefits of acquiring a top-notch financial advisor headshot and the nuances of achieving the perfect image.",
+        "meta": {
+            "description": "Discover how a high-quality financial advisor headshot is a vital asset in establishing trust and credibility with potential clients. Try it yourself today."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/6694491/pexels-photo-6694491.jpeg?auto=compress&cs=tinysrgb&h=350",
@@ -1660,6 +1748,9 @@
         "image": "https://images.pexels.com/photos/5633334/pexels-photo-5633334.jpeg?auto=compress&cs=tinysrgb&h=350",
         "keyword": "LinkedIn Headshots",
         "description": "An exceptional LinkedIn headshot is a powerful marketing tool in today's increasingly digital world. Providing a professional image that exudes confidence, competence, and a strong personal brand can help you stand out among competitors and attract opportunities on the popular networking platform. Discover the importance of high-quality LinkedIn headshots and how to capture the perfect image.",
+        "meta": {
+            "description": "LinkedIn headshot is a powerful marketing providing a professional image to stand out among competitors and attract opportunities. Look your best today."
+        },
         "blocks": [
             {
                 "image": "https://images.pexels.com/photos/17078702/pexels-photo-17078702.jpeg?auto=compress&cs=tinysrgb&h=350",
