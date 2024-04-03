@@ -24,8 +24,7 @@ By creating an Account on our Service, you agree to subscribe to newsletters, ma
 
 ## Purchases
 
-If you wish to purchase any product or service made available through Service
-(**“Purchase”**), you may be asked to supply certain information relevant to your Purchase including, without limitation, your credit card number, the expiration date of your credit card, your billing address, and your shipping information.
+If you wish to purchase any product or service made available through Service (**“Purchase”**), you may be asked to supply certain information relevant to your Purchase including, without limitation, your credit card number, the expiration date of your credit card, your billing address, and your shipping information.
 
 You represent and warrant that: (i) you have the legal right to use any credit card(s) or other payment method(s) in connection with any Purchase; and that (ii) the information you supply to us is true, correct and complete.
 
@@ -33,8 +32,11 @@ We may employ the use of third party services for the purpose of facilitating pa
 
 We reserve the right to refuse or cancel your order at any time for reasons including but not limited to: product or service availability, errors in the description or price of the product or service, error in your order or other reasons.
 
-We reserve the right to refuse or cancel your order if fraud or an unauthorized or illegal
-transaction is suspected.
+We reserve the right to refuse or cancel your order if fraud or an unauthorized or illegal transaction is suspected.
+
+## Credits System
+
+As part of our commitment to enhance your experience with BetterPic, we have introduced a Credits system applicable for AI Edits, Manual Edits, and New Photoshoots within our PhotoStudio. It's essential to understand that these credits, once purchased or acquired, are considered final and non-refundable. This condition applies regardless of the use or non-use of the credits. We encourage our users to review their needs carefully before purchasing credits, as this no-refund policy is strictly adhered to, complementing our detailed refund policy available on our platform.
 
 ## Contests, Sweepstakes and Promotions
 
