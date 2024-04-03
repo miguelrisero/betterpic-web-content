@@ -1,5 +1,6 @@
 ---
-title: 'Why AI Headshots Over Traditional Headshots | BetterPic'
+title: Why Choose AI Headshots Over Traditional Headshots
+metatitle: 'Why AI Headshots Over Traditional Headshots | BetterPic'
 category: AI Photos
 description: Discover AI generated headshots that can produce beautiful portraits, accurately reflecting your personality. No expensive equipment or photographer needed.
 readtime: 7

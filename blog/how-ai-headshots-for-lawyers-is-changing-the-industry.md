@@ -1,5 +1,6 @@
 ---
-title: 'AI Headshots for Lawyers | BetterPic'
+title: AI Headshots for Lawyers is Changing the Industry
+metatitle: 'AI Headshots for Lawyers | BetterPic'
 category: Professions
 description: Learn how AI headshots are revolutionizing the process of producing legal professionals' headshots. Improve your online presence & client relationships.
 readtime: 6

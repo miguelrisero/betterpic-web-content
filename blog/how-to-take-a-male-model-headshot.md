@@ -1,5 +1,6 @@
 ---
-title: 'Take a Male Model Headshot | BetterPic'
+title: 'How to Take a Male Model Headshot'
+metatitle: 'Take a Male Model Headshot | BetterPic'
 category: Professions
 description: Learn how to create a standout male model headshot with tips on attire, posing, & editing. Discover the convenience of AI generated professional headshots.
 readtime: 7
