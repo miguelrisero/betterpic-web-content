@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+metatitle: 'Privacy Policy & Data Processing | BetterPic'
 description: 'Personal Data Protection Policy. It describes BetterPic internal rules for personal data processing and protection.'
 category: Legal Document
 updated: 2023-03-30

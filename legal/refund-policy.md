@@ -1,5 +1,6 @@
 ---
 title: Refund Policy
+metatitle: 'Refund Policy and Procedure | BetterPic'
 description: 'Refund Policy for BetterPic. This policy outlines the circumstances under which customers can request a refund. This policy applies to our web page and web application.'
 category: Legal Document
 updated: 2023-09-05
