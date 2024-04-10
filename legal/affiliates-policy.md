@@ -17,13 +17,13 @@ By signing up for the BetterPic Affiliate Program (Program), you indicate your a
 We reserve the right to approve or reject ANY Affiliate Program Application in our sole and absolute discretion. You will have no legal recourse against us for the rejection of your Affiliate Program Application.
 
 ## 2. Commissions
-Commissions will be paid once a month. For an Affiliate to receive a commission, the referred account must complete at least one order fully and receive the results. Commissions are eligible for payout after 30 days of the order being completed. Commissions require a minimum balance of 30€ to be eligible for payout.
+Commissions will be paid once a month. For an Affiliate to receive a commission, the referred account must complete at least one order fully and receive the results. Commissions are eligible for payout after 30 days of the order being completed. Commissions require a minimum balance of 25€ to be eligible for payout.
 
-You cannot refer yourself, and you will not receive a commission on your own accounts. There is also a limit of one commission per referral. If someone clicks the link on your site and orders multiple accounts, then you will receive a commission on the first order only.
+You cannot refer yourself, and you will not receive a commission on your own accounts. There are no limits in commission per referral made within 1 year of the user first visit. If someone clicks the link on your site and purchase multiple orders (in the same or multiple accounts), then you will receive a commission for all the purchases made, up to 1 year.
 
 Payments will only be sent for transactions that have been successfully completed. Transactions that result in chargebacks or refunds will not be paid out.
 
-Affiliates will receive a 20% commission on the first 2 payments made by a user during their first 12 months on the platform.
+Affiliates will receive a 20% commission on all payments made by a user during their first 12 months on the platform.
 
 ## 3. Termination
 Your affiliate application and status in the Program may be suspended or terminated for any of the following reasons:
