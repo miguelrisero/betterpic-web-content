@@ -55,6 +55,9 @@ others on it, are from a normal distance (you are close enough), and don’t hav
 
 Also part of it is choosing styles from the ones the tools offer that match your features.
 
+If you're not sure what AI Generator to use, you can check out [this LinkedIn Article that features the Best 5 AI Headshot Generators out there](https://www.linkedin.com/pulse/5-best-ai-headshot-generators-2024-depth-comparison-miguel-rasero-gn6tf/).
+
+
 ## **Optimising your LinkedIn profile with AI-generated headshots**
 
 There are a bunch of reasons why it makes sense to add a professional headshot to your LinkedIn profile. A good-looking
