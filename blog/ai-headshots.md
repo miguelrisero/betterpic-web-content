@@ -76,7 +76,7 @@ about 10-15% of a studio shoot’s price and without the time requirements and p
 A great headshot can enhance your career chances, not just on Linkedin but on any platform, where people can get to know
 your professional skills & services. A good image can enhance your trustworthiness and make your brand more relatable.
 
-![ai-headshot-example](/assets/img/blog-assets/image2.jpg)
+![ai-headshot-example](/assets/reusable-media/batchs/mixed_ethnicity_and_gender/batch_1/05537-man,_arab-35-brown_hair-charcoal_gray_suit-corporate_building.jpg)
 
 Not to mention that the best ones of these AI headshot generators can create 4K images that you can use on any medium (
 ads, website, social profiles, billboards etc.). \
