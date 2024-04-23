@@ -98,7 +98,7 @@ Want to look a bit more serious for your LinkedIn profile but keep it casual for
 Efficiency is another big win.  \
 We're talking minutes, not hours or days, to get a professional headshot. Plus, there's the convenience factor. You can do it all from home, wearing your favorite hoodie if that's your vibe (of course keep in mind that you should not upload images with a hood on). No need to schedule appointments or travel to a studio.
 
-In a nutshell, AI headshots are like the cool, tech-savvy cousin of traditional photography.
+In a nutshell, AI headshots are like the cool, tech-savvy cousin of traditional photography. You can get [AI LinkedIn headshots](https://www.betterpic.io/blog/ai-linkedin-headshot) just specific to LinkedIn.
 
 They're here to make life easier, your online presence sharper, and to be honest, to add a little bit of wow factor to your professional image.
 
@@ -244,7 +244,7 @@ You're still in the driver's seat, steering how you want to be seen by the world
 
 ### Balancing tech and authenticity
 
-Now, for the final piece of the puzzle—balancing technology with authenticity.
+Now, for the final piece of the puzzle on [AI generated headshots](https://www.betterpic.io/blog/ai-generated-headshots) is balancing technology with authenticity.
 
 Yes, AI is cool, and yes, it can do amazing things. But at the end of the day, your personal brand is about you—your story, your values, your unique qualities.
 
