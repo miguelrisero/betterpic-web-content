@@ -3,7 +3,7 @@ title: Ultimate guide on AI Headshots to look Professional and Natural
 category: Guide
 description: The Ultimate guide to AI Headshots on why you should use them, how it helps with LinkedIn, the future of it and a lot more. Find out here.
 readtime: 8
-date: 2024-03-07
+date: 2024-03-26
 cover: /assets/blog/top-10-ai-headshot-tools/cover.jpg
 metatitle: AI Headshots Guide | Professional AI Headshots | BetterPic
 metadescription: The Ultimate guide to AI Headshots on why you should use them, how it helps with LinkedIn, the future of it and a lot more. Find out here.

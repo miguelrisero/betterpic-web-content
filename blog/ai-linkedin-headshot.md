@@ -3,7 +3,7 @@ title: 6 Ways an AI LinkedIn Headshot Can Transform Your Image and Attract New O
 category: AI Headshots
 description: Discover how an AI LinkedIn headshot can strengthen your professional image while enhancing visibility and personal brand for career growth.
 readtime: 7
-date: 2024-04-21
+date: 2024-04-12
 cover: /assets/blog/<blog>/cover.jpg
 cover_alt: professional headshot of a black man throwing books in the sky
 metatitle: AI LinkedIn Headshot | BetterPic
