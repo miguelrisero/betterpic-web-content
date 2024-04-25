@@ -38,9 +38,7 @@ Key considerations include:
 
 ### 🥇 BetterPic
 
-![BetterPic AI Headshot Generator - Landing Page](/assets/reusable-media/betterpic-landing.png)
-
-🌐 [Visit BetterPic](https://www.betterpic.io/?via=aicol_net)
+![BetterPic AI Headshot Generator - Landing Page](/assets/reusable-media/showcase/betterpic-landing.png)
 
 BetterPic leads with its ultra-fast delivery of 4K resolution headshots, ideal for professionals needing quick, high-quality images.
 
@@ -58,11 +56,11 @@ Rapid, top-quality headshots for professionals.
 #### Pricing:
 Starts at $25.
 
+🌐 [Visit BetterPic](https://www.betterpic.io/?via=aicol_net)
+
 ### 🥈 HeadshotPro
 
-![HeadshotPro AI Headshot Generator - Landing Page](/assets/reusable-media/headshotpro-landing.png)
-
-🌐 [Visit HeadshotPro](https://www.headshotpro.com/?via=aicol_net)
+![HeadshotPro AI Headshot Generator - Landing Page](/assets/reusable-media/showcase/headshotpro-landing.png)
 
 HeadshotPro offers a diverse array of styles and backgrounds, perfect for creating a versatile professional portfolio.
 
@@ -79,11 +77,11 @@ Professionals requiring a range of headshot options.
 #### Pricing:
 Starts at $29.
 
+🌐 [Visit HeadshotPro](https://www.headshotpro.com/?via=aicol_net)
+
 ### 🥉 Aragon
 
-![Aragon AI Headshot Generator - Landing Page](/assets/reusable-media/aragon-landing.png)
-
-🌐 [Visit Aragon](https://www.aragon.ai/?via=aicol_net)
+![Aragon AI Headshot Generator - Landing Page](/assets/reusable-media/showcase/aragon-landing.png)
 
 Aragon excels in creating personalized, vivid portraits from a minimal number of photos.
 
@@ -100,11 +98,11 @@ Individuals seeking a personalized digital representation.
 #### Pricing:
 Starts at $29.
 
+🌐 [Visit Aragon](https://www.aragon.ai/?via=aicol_net)
+
 ### ProPhotos
 
-![ProPhotos AI Headshot Generator - Landing Page](/assets/reusable-media/prophotos-landing.png)
-
-🌐 [Visit ProPhotos](https://www.prophotos.ai/?via=aicol_net)
+![ProPhotos AI Headshot Generator - Landing Page](/assets/reusable-media/showcase/prophotos-landing.png)
 
 ProPhotos is ideal for businesses needing consistent, brand-aligned headshots for their team members.
 
@@ -121,11 +119,11 @@ Organizations aiming for a cohesive brand image.
 #### Pricing:
 Competitively starts at $25.
 
+🌐 [Visit ProPhotos](https://www.prophotos.ai/?via=aicol_net)
+
 ### DreamWave
 
-![DreamWave AI Headshot Generator - Landing Page](/assets/reusable-media/dreamwave-landing.png)
-
-🌐 [Visit DreamWave](https://www.dreamwave.ai/?via=aicol_net)
+![DreamWave AI Headshot Generator - Landing Page](/assets/reusable-media/showcase/dreamwave-landing.png)
 
 DreamWave targets those who prioritize ultra-realistic details in their professional headshots.
 
@@ -138,6 +136,8 @@ DreamWave targets those who prioritize ultra-realistic details in their professi
 
 #### Best For:
 Individuals valuing precision and detail.
+
+🌐 [Visit DreamWave](https://www.dreamwave.ai/?via=aicol_net)
 
 #### Pricing:
 Begins at $35+.
@@ -159,8 +159,8 @@ This comparative overview helps you understand the various features and benefits
 
 BetterPic not only excels in affordability and rapid service but also stands out for its comprehensive style options and robust data security, making it a top pick for professionals on a tight schedule.
 
-![AI Feedback from BetterPic](/assets/reusable-media/bpshowcase-aifeedback.png)
+![AI Feedback from BetterPic](/assets/reusable-media/showcase/bpshowcase-aifeedback.png)
 
-![Pricing and Use Cases for BetterPic](/assets/reusable-media/bpshowcase-pricing.png)
+![Pricing and Use Cases for BetterPic](/assets/reusable-media/showcase/bpshowcase-pricing.png)
 
 While other services offer significant advantages, BetterPic’s combination of speed, quality, and price makes it the best choice for most professionals.
