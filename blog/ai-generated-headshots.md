@@ -166,7 +166,7 @@ Also, in reality, the shift should (and most likely for a while will) let photog
 
 ### Integrating AI with Personal Branding strategies
 
-![ai-professional-headshot-woman](/assets/blog/ai-generated-headshots/image2.jpg)
+![ai-generated-headshot-woman](/assets/blog/ai-generated-headshots/image2.jpg)
 
 Just because you can whip up a new headshot in minutes doesn't mean you should toss planning out the window.
 
@@ -217,7 +217,7 @@ As AI becomes more woven into the fabric of our digital lives, the possibilities
 
 ## Conclusion
 
-![ai-professional-headshot-woman-example](/assets/blog/ai-generated-headshots/image3.jpg)
+![ai-generated-headshot-woman-example](/assets/blog/ai-generated-headshots/image3.jpg)
 
 Alright, let's wrap this up and put a bow on it. We've been on quite the journey exploring the world of AI professional headshots and how they're shaking up the personal branding scene.
 
