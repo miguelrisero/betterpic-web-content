@@ -46,14 +46,14 @@ This isn't just about looking good anymore; it’s about conveying a message of 
 ## 2. The right 1st impression
 
 
-![Woman LinkedIn Headshot working laptop](/assets/blog/ai-linkedin-headshot/image1.jpg)
+![ai LinkedIn Headshot woman working laptop](/assets/blog/ai-linkedin-headshot/image1.jpg)
 
 
 I’m sure you’ve heard that it takes less than a second for someone to form an impression of you.
 
 Will that impression be right? Likely not, but when people are faced with a profile picture and some lines about your experience they’ll unwillingly make those snap judgments. So what will have a strong impact on their initial impression?
 
-AI headshots help you make the most of that critical moment. They enhance key visual elements so that your photo translates confidence, professionalism, and warmness right from the start. Advanced algorithms fine-tune your image to highlight your best features, making sure you pack a powerful first impression. David Green (professional photographer) emphasises that the right headshot can significantly increase how often your profile is viewed and engaged with.
+[AI headshots](https://www.betterpic.io/blog/ai-headshots/) help you make the most of that critical moment. They enhance key visual elements so that your photo translates confidence, professionalism, and warmness right from the start. Advanced algorithms fine-tune your image to highlight your best features, making sure you pack a powerful first impression. David Green (professional photographer) emphasises that the right headshot can significantly increase how often your profile is viewed and engaged with.
 
 \
 Who is David Green you might ask? He is a professional photographer who made an interesting comment about this on Reddit. But I mean… he IS right.
@@ -69,7 +69,7 @@ Think professional headshots are expensive? Think again.
 
 While it may feel threatening, overwhelming or even boring at this point, AI technology can democratise areas of our lives.  The process of getting high-quality headshots is one of those.
 
-Traditional photography can be costly, with sessions and retouching adding up. However, AI headshots provide a cost-effective solution by generating multiple professional-quality images quickly and affordably. This means you can regularly update your photo without additional expense, keeping your professional image in sync with your current career status.
+Traditional photography can be costly, with sessions and retouching adding up. However, [AI generated headshots](https://www.betterpic.io/blog/ai-generated-headshots/) provide a cost-effective solution by generating multiple professional-quality images quickly and affordably. This means you can regularly update your photo without additional expense, keeping your professional image in sync with your current career status.
 
 According to OPENonline, having a current, professional headshot can increase your message and connection requests by up to 80%.
 
@@ -86,7 +86,7 @@ Not a lot I despise as much as people writing about the ‘fast-paced’ world, 
 
 AI headshots can be quickly adjusted to reflect recent professional developments or changes in your appearance, transforming your LinkedIn image into the most accurate representation of your professional self. CV-Library reports that 88% of hiring managers are less likely to engage with profiles that lack a current, professional headshot. AI headshot generators make staying updated not just essential but easy.
 
-![AI Headshot Result for LinkedIn](/assets/blog/ai-linkedin-headshot/image2.jpg)
+![AI linkedin headshot result](/assets/blog/ai-linkedin-headshot/image2.jpg)
 
 
 ## 5. Get noticed - boost your engagement.
@@ -114,12 +114,13 @@ According to the study by PhotoFeeler I’ve mentioned before, LinkedIn profiles
 
 
 ## Let’s do this
+[ai linkedin headshot woman hispanic](/assets/reusable-media/batchs/mixed_ethnicity_and_gender/batch_3/07848-woman,_hispanic-30-black_hair--modern_boardroom.jpg)
 
 LinkedIn headshots should be more than just flattering photos; it's a powerful tool for shaping your professional narrative, amplifying your visibility, and showcasing what makes you a standout candidate worth getting to know.
 
 So why wouldn’t you make all that easy and economical with the right AI tool?
 
-From crafting attention-grabbing first impressions to future-proofing your personal branding approach, the creative potential of AI headshot editing is quite remarkable.
+From crafting attention-grabbing first impressions to future-proofing your personal branding approach, the creative potential of AI LinkedIn headshot is quite remarkable.
 
 The best part is that you don't need to be a great photographer or a tech wizard to benefit – if you want to elevate your professional image to new heights you can do it in a few clicks in about 5 minutes (plus the ~60 you wait for the pictures).
 
