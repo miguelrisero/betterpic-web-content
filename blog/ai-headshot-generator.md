@@ -191,7 +191,7 @@ These AI-powered tools have not only made professional-grade headshots more acce
 ![Woman AI Headshot for LinkedIn](/assets/blog/ai-headshot-generator/image5.jpg)
 
 
-On platforms like LinkedIn, [AI headshot generators](/https://www.betterpic.io/blog/ai-generated-headshots/) have become invaluable allies.
+On platforms like LinkedIn, [AI headshot generators](https://www.betterpic.io/blog/ai-generated-headshots/) have become invaluable allies.
 
 They enable people to project a professional online presence that resonates with their personal styles and brand aesthetics.
 
@@ -205,4 +205,4 @@ As personal branding and ‘reputation management’ (a fancy way of saying: how
 
 Whether in corporate settings, creative fields, or entrepreneurial ventures, a good-looking headshot can elevate one's image. It can foster trust and project an aura of confidence and competence.
 
-While the landscape of online personas is only constantly changing it does not seem to lose relevance any time soon. That means that you need to get to know and embrace all the right solutions that can help you polish your digital persona. [AI headshots](/https://www.betterpic.io/blog/ai-headshots/) are one of those solutions that can help you elevate your profiles and through that your career outlook. The good news is that they are not only super easy to use but are also laughably cheap compared to traditional, professional studio photoshoots.
+While the landscape of online personas is only constantly changing it does not seem to lose relevance any time soon. That means that you need to get to know and embrace all the right solutions that can help you polish your digital persona. [AI headshots](https://www.betterpic.io/blog/ai-headshots/) are one of those solutions that can help you elevate your profiles and through that your career outlook. The good news is that they are not only super easy to use but are also laughably cheap compared to traditional, professional studio photoshoots.

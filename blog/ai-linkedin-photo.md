@@ -121,7 +121,7 @@ As you can see the process is quick and straightforward, and it puts studio-qual
 
 Getting professional quality shots:
 
-Thanks to apps like [BetterPic](www.betterpic.io), today your smartphone is your best friend when it comes to shooting a LinkedIn-worthy photo.
+Thanks to apps like [BetterPic](https://www.betterpic.io), today your smartphone is your best friend when it comes to shooting a LinkedIn-worthy photo.
 
 First, maximise either natural light » shoot near a window or outdoors on an overcast day to avoid harsh shadows, or use equally distributed lighting on your face (like a ring light) with additional light for depth (like an LED light or something with dim light in the background).
 

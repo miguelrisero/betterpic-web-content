@@ -43,7 +43,7 @@ Now, I'm sure you tech-savvy folks are wondering how to do AI headshots?. Well, 
 
 ### Step 1) Upload Your Pics:
 
-To kick things off, you'll need to head over to an AI headshot website (I'm a big fan of [BetterPic](www.betterpic.io), our very own tool, but there are others out there too). Once there, you'll be prompted to upload a series of photos of yourself - usually around 6-15 depending on the service. The more pics, the better, as it gives the AI more data to work with.
+To kick things off, you'll need to head over to an AI headshot website (I'm a big fan of [BetterPic](https://www.betterpic.io), our very own tool, but there are others out there too). Once there, you'll be prompted to upload a series of photos of yourself - usually around 6-15 depending on the service. The more pics, the better, as it gives the AI more data to work with.
 
 
 ### Step 2) Customize Your Preferences:
