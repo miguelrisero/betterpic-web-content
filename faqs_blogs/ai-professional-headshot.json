@@ -1,0 +1,16 @@
+{
+  "faqs": [
+      {
+          "question": "Won't AI-generated headshots look fake or unrealistic?",
+          "answer": "Thanks to advancements in AI and machine learning algorithms, AI-generated headshots can look stunningly realistic and natural. The best providers use advanced techniques like generative adversarial networks (GANs) and neural style transfer to ensure that your headshots capture your unique features and personality while maintaining a polished, professional look."
+      },
+      {
+          "question": "Is it ethical to use AI generated headshots?",
+          "answer": "Absolutely! AI-generated headshots are simply a more efficient and accessible way of achieving the same results as traditional photography. As long as the images are used for legitimate purposes and do not misrepresent or deceive, there are no ethical concerns. In fact, many professionals argue that AI-generated headshots level the playing field by making professional-quality headshots more accessible to everyone, regardless of their budget or location."
+      },
+      {
+          "question": "Can AI professional headshots be used for official documents or ID cards?",
+          "answer": "While AI headshots are perfect for online profiles, websites, and personal branding purposes, they may not meet the strict requirements for official documents or ID cards. However, some AI headshot tools offer the flexibility of turning your AI headshots into different passport, ID or visa sized pictures."
+      }
+  ]
+}
