@@ -37,14 +37,14 @@ One of the most advanced AI photo generators on the market is [BetterPic](https:
 
 1.: It leverages state-of-the-art machine learning models to generate highly realistic and customizable headshots, offering users an unprecedented level of control and flexibility.
 
-2.: It’s subprocessors operate in Europe and the USA, thus it provides the highest level of data protection among these solutions that complies with GDPR and CCPA laws.
+2.: Its subprocessors operate in Europe and the USA, thus it provides the highest level of data protection among these solutions that comply with GDPR and CCPA laws.
 
 3.: It is partly operated by experienced marketers who know how much user experience matters, so they put a strong emphasis on customer care.
 
 
 ## III. How Does it Work? Two Words - Diffusion Model
 
-![diffusion model for AI Headshots](/assets/blog/ai-business-photo-generator/diffusion_model_functioning.jpg)
+![ai-business-photo-generator-diffusion model](/assets/blog/ai-business-photo-generator/diffusion_model_functioning.jpg)
 
 
 A crucial aspect of our results pipeline is the utilisation of diffusion models as mentioned before.
@@ -61,12 +61,12 @@ Here's an overview of the process:
 
 ## IV. Ensuring Photorealism
 
-![perceptual loss in models for AI Headshots Tools](/assets/blog/ai-business-photo-generator/perceptual_loss.jpg)
+![ai-business-photo-generator-perceptual-loss-models](/assets/blog/ai-business-photo-generator/perceptual_loss.jpg)
 
 
 Ensuring photorealism is a critical aspect of creating high-quality AI-generated headshots.
 
-Here are some of the key technology and techniques used to achieve hyper-realistic textures, shadows, and details:
+Here are some of the key technologies and techniques used to achieve hyper-realistic textures, shadows, and details:
 
 
 
@@ -107,7 +107,7 @@ It's an ongoing process, but BetterPic’s developers are committed to making su
 ## VI. Customization and Detailing
 
 
-![ai model headshot Arab woman with blonde hair](/assets/reusable-media/batchs/mixed_ethnicity_and_gender/batch_1/06649-woman,_arab-35-blonde_hair--.jpg)
+![ai-business-photo-generator-model-Arab-woman-blonde-hair](/assets/reusable-media/batchs/mixed_ethnicity_and_gender/batch_1/06649-woman,_arab-35-blonde_hair--.jpg)
 
 
 One of the key advantages of AI-generated headshots is the high level of customization available.
@@ -139,7 +139,7 @@ Guaranteeing  that the headshots look professional and consistent across differe
 
 ## VIII. Creative Styles and Filters
 
-![headshots Middle-aged Arab man with brown hair wearing a charcoal gray suit in front of a corporate building](/assets/reusable-media/batchs/mixed_ethnicity_and_gender/batch_1/05537-man,_arab-35-brown_hair-charcoal_gray_suit-corporate_building.jpg)
+![ai-business-photo-generator-man-charcoal-grey-suit](/assets/reusable-media/batchs/mixed_ethnicity_and_gender/batch_1/05537-man,_arab-35-brown_hair-charcoal_gray_suit-corporate_building.jpg)
 
 
 At BetterPic, we understand the importance of balancing creativity and professionalism when it comes to applying styles and filters to AI-generated headshots. That is why we offer a diverse range of styles to make sure that you and everyone else  can have unique and personalized headshots.
@@ -157,7 +157,7 @@ Regarding popular trends in styles and filters, we've observed a growing demand 
 
 This trend reflects the increasing desire for authenticity and the need for headshots that accurately represent the individual's real-world work setting.
 
-By offering this option, you can create headshots that are both professional and true to your remote work lifestyle.
+By offering this option, you can create [AI headshots](https://www.betterpic.io/blog/ai-headshots) that are both professional and true to your remote work lifestyle.
 
 ## IX. Ethical Considerations
 
@@ -169,7 +169,7 @@ While AI business photo generators offer numerous benefits, it's crucial to addr
 2. Privacy and consent: The use of AI-generated headshots raises privacy concerns, particularly when it comes to using individuals' likenesses without their explicit consent.
 3. Transparency and disclosure: It is essential for businesses and individuals to be transparent about the use of AI-generated visuals, disclosing their origins to maintain trust and credibility with their audience.
 
-To address these concerns, it's crucial for AI photo generator developers, businesses, and users to prioritize ethical practices, implement robust safeguards, and adhere to industry guidelines and regulations.
+To address these concerns, it's crucial for [AI headshot generator](https://www.betterpic.io/blog/ai-headshot-generator) developers, businesses, and users to prioritize ethical practices, implement robust safeguards, and adhere to industry guidelines and regulations.
 
 We make sure to continuously monitor these and other challenges and address them head on.
 
