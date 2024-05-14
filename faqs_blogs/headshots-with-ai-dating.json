@@ -1,0 +1,29 @@
+{
+  "faqs": [
+      {
+          "question": "How exactly does the AI recommend natural-looking poses for my photos?",
+          "answer": "The AI analyzes data from successful dating profile photos to identify poses, expressions, and body language that tend to resonate positively with viewers. It looks for patterns in things like open vs. closed stances, smiles vs. serious looks, positioning of arms/legs, etc. Using this data, it can suggest poses tailored to the vibe you want to convey, such as approachable, confident, flirty, etc. The AI can even analyze your natural movements to capture candid, unstudied moments where you appear at ease."
+      },
+      {
+          "question": "What kinds of styles and looks can the AI help me experiment with?",
+          "answer": "The AI can generate extremely realistic simulations across a wide range of styles, such as different hairstyles, facial hair, clothing styles (casual, formal, etc.), as well as different settings and backdrops. You can try out an edgier look with an undercut hairstyle, see if growing a beard suits you, opt for refined fashion or relaxed outdoor-wear, or even envision yourself in different environments like cafes, city streets, nature scenes, and more."
+      },
+      {
+          "question": "How realistic are the AI's style simulations? Will I look drastically different than the simulation IRL?",
+          "answer": "The simulations leverage advanced AI capabilities to be stunningly realistic. While there may be some small deviations, the goal is for the AI's simulations to provide an extremely accurate preview of how different styles and looks would translate in the real world. The AI takes into account your unique facial features, body type, skin tones, and more to generate a highly representative sample before you commit to any major changes."
+      },
+      {
+          "question": "Does using AI-enhanced headshots mean all my photos will look artificial or over-edited?",
+          "answer": "Not at all! A core principle of this technology is retaining realism and authenticity. The AI's enhancements are designed to be nuanced, avoiding the plastic 'overprocessed' look. The goal is to optimize lighting, angling, and accentuate your natural features in a polished yet believable way that remains true to your actual appearance when meeting in person."
+      },
+      {
+          "question": "What if I'm not happy with the AI's recommendations? Can I override suggestions?",
+          "answer": "Absolutely. The AI functions as an intelligent recommendation engine, but you maintain full control over your personal branding and creative direction. Think of the AI as a knowledgeable consultant - it provides data-driven advice, but you decide what resonates most authentically with your self-expression. You can accept or discard the AI's suggestions as you see fit."
+      },
+      {
+          "question": "This all sounds great, but is AI-enhanced headshot technology affordable for most dating app users?",
+          "answer": "While professional photography can be cost-prohibitive, many companies are working to make AI-enhanced headshot technology extremely accessible and affordable, even offering subscription models. As the technology becomes more ubiquitous, prices will likely continue dropping to be within reach of most dating app users looking to elevate their profiles efficiently."
+      }
+  ]
+
+}
