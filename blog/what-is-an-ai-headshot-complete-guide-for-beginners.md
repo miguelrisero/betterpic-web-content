@@ -5,6 +5,8 @@ description: Discover what AI headshots are & how they can produce beautiful por
 readtime: 5
 date: 2023-09-01
 cover: /assets/blog/<blog>/cover.jpg
+meta title: About AI headshot | Complete Guide | BetterPic
+meta description: Discover more about what AI headshots are, how they are created, how neural networks and GANs are used and more. See ethical concerns.
 ---
 ## Introduction
 
