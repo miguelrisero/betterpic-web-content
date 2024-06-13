@@ -11,7 +11,7 @@ metadescription: The Ultimate guide to AI Headshots on why you should use them, 
 
 ## **What is an AI headshot generator?**
 
-AI headshot generators are a new set of tools that use artificial intelligence technology to create (hyper-) realistic
+[AI headshot generators](/) are a new set of tools that use artificial intelligence technology to create (hyper-) realistic
 and professional headshot images. These image generators are designed to simplify and speed up the process of getting
 high-quality headshots by using your selfies and casual photos. These tools can produce headshots that look to be made
 in a studio shooting.
